@@ -615,7 +615,7 @@ sys.stdout = original_stdout
 #*** Total execution time
 print("Total execution time: %s seconds" %((time.time() - start_time)))
 
-sys.stdout = open('GPT4_128k_Top_4_exec_summary.txt', 'w', encoding='utf-8')
+sys.stdout = open('GPT4_128k_ParetoSET_exec_summary.txt', 'w', encoding='utf-8')
 
 # user_input = input()
 conversation.append({"role": "user", "content": exec_summary_prompt})
