@@ -1,0 +1,46 @@
+PROJECT DESCRIPTION
+BACKGROUND
+The wastewater treatment sector discharges a significant amount of re-usable nutrients into the environment (e.g. rivers, dewatered sludge and the atmosphere). One such nutrient is phosphorus, which is essential for agriculture. Modern agriculture is dependent on phosphorus mining, derived from high-grade phosphate rock, which is a non-renewable resource. The present consumption of rock phosphorus as fertiliser is over 1 million tonnes per year (Rahman et al., 2011). The phosphate rock is unevenly distributed around the world, with more than 70% of reserves located in Morocco. Due to the relevance of this material for the strategic agriculture sector, the EU has included phosphate rock as a critical raw material in the framework of the EU Raw Materials Initiative. Additionally, manufacturing fertiliser from phosphate rock is highly complex and environmentally unfriendly.
+
+Nitrogen is another nutrient present in effluent from wastewater treatment plants (WTTPs) that poses a threat to the quality of water (via eutrophication) and air (through ammonia emissions). In this case, the presence of nitrogen in wastewater also affects the carbon footprint of the plant as the biological nitrogen removal processes emit nitrous oxide (N2O), a strong greenhouse gas. The integration of alternative processes for nitrogen recovery could therefore have a positive impact on WWTPs’ environmental footprint, and help achieve the objectives of the Water Framework Directive, the Urban Waste Water Treatment Directive and the 2020 EU Climate and Energy Package.
+
+The production of dry sludge from WWTPs in the EU-27 amounted to 10.13 million tonnes in 2013. The Sewage Sludge Directive and the Urban Waste Water Treatment Directive encourage the use of sludge in agriculture, as long as it is not a threat to the environment and human health. In Spain, WWTPs generate about 1.2 million tonnes of sludge. Up to 82.6% of the sludge generated is used as fertiliser, although its direct use in agriculture poses several environmental problems for soil and water quality due to the presence of pollutants such as heavy metals.
+
+
+OBJECTIVES
+LIFE ENRICH aimed to demonstrate a cost-efficient and highly replicable recovery system for nitrogen and phosphorus from WWTPs and its valorisation in agriculture (either via direct use on crops or through the fertiliser industry). To this end, the project’s objective was to design and build a new sludge line configuration in Murcia Este’s WWTP that aims to extract and concentrate phosphorus in the liquid phase with a later full recovery via crystallisation. The nitrogen recovery unit would be based on ammonium adsorption into zeolites combined with membrane contactors. The products obtained would be combined in order to find optimal mixtures and their agronomic properties will be validated at full-scale through field tests, in order to ensure the products' viability.
+
+Specific objectives were to:
+
+Define the business model for the entire nutrient recycling value chain, integrating nutrient producers and final end-users, and propose a business plan for Spain;
+Assess the replicability of the business model in other European countries;
+Validate a treatment train integrating different technologies for the recovery of both nitrogen and phosphorus from wastewater in existing WWTPs;
+Increase the efficiency of phosphorus recovery by implementing new elutriation schemes for enhanced production of different forms of struvite, and contribute to its regulation in future fertiliser directives;
+Develop membrane contactors technology for the production of ammonium salts, and contribute to its regulation in future fertiliser directives (proposal for specifications);
+Promote the agronomic value of digested sludge as a source of nutrients (N and P) and organic carbon; and
+Define the optimal fertiliser mixtures for crops of interest and demonstrate the agronomic properties of the recovered products.
+In addition to the benefits relating to water and climate policy, the project aimed to help implement the new EU Circular Economy Action Plan through the recovery of phosphorus, a critical raw material. Such materials were a priority area of the plan.
+
+
+ 
+
+
+RESULTS
+The LIFE ENRICH project team connected a wastewater treatment plant (WWTP) with the fertiliser industry, to demonstrate how nutrients that are usually discharged to the environment can become a resource to replace nutrients from natural reserves or complex manufacturing processes. The team dealt with the whole value chain: the recovery of nutrients in the WWTP, the characterisation and optimal mixing of them to obtain added-value fertilisers, and the validation of nutrient recovery and fertilisation in a real-world case study.
+
+ 
+
+Nutrients were recovered using different innovative, integrated technologies in the Murcia Este WWTP (Spain). The project team recovered nitrogen (N) as a salt (ammonium nitrate), producing up to 1 937 t/year. They recovered phosphorus (P) by phosphorous elutriation at full-scale, followed by a pilot crystallisation unit that produced around 1 100 t/year of struvite, a precipitate composed of magnesium, ammonium and phosphate. The outputs were assessed in two types of field tests: under controlled conditions on a small surface area, and on commercial farms. All the tests proved that the products were suitable for use as fertilisers.
+
+ 
+
+The project beneficiaries analysed the replicability of the LIFE ENRICH system in three other WWTPs in Spain, as well as the transferability to three other European countries. This showed that the system is technically viable in different situations. However, from the economic point of view, the process generates different revenues depending on full or partial implementation. Nevertheless, the main barrier so far is the legal framework that regulates the fertiliser's origin. This should be changed as a result of the new EU Fertiliser Products Regulation (2019/1009) that will come into force in July 2022.
+
+ 
+
+The implementation of the nitrogen and phosphorus recovery treatments allowed the beneficiaries to estimate the expected recovery in existing urban WWTPs to be around 42% for P (>50% as struvite) and 11% for N. The environmental benefits of nutrient recovery in the WWTPs, and its use in agriculture instead of conventional fertilisers, are mainly related to a reduction of 0.06 kg CO2/m2 cultivated land (19% reduction) and a reduction of phosphate rock consumption of 774 t/year.
+
+ 
+
+Moreover, the business model was designed in parallel, to ensure that the proposed solution is ready to be transferred and replicated in other sites, regions and countries (Italy, Denmark, Netherlands).
+

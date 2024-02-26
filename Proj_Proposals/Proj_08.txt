@@ -1,0 +1,21 @@
+PROJECT DESCRIPTION
+BACKGROUND
+There are a number of different carbon waste streams without a suitable recycling solution, for example: surplus manure in agriculture, biomass residues from agricultural processes and wood waste, spent activated carbon from industrial processes contaminated with persistent organic pollutants, and Carbon (Glass) Fibre Reinforced Polymer Composites (CFRP and GFRP) waste from end-of-life components from automotive, aerospace and wind energy. There are, for instance, no easy ways of recycling wind turbine blades. The conventional approach has been landfilling, incineration or recovery by using cement co-processing technology. However, none of these are sustainable approaches. If no suitable solution is found, it may hamper further expansion of the use of wind turbines. This is particularly alarming as end-of-life wind turbines are expected to reach 50 kton/y in 2020 and 100 kton/y by 2034. The experimental “ThorSpin” process is a promising new technology for recovering and recycling CFRP and GFRP.
+
+
+OBJECTIVES
+The overall objective of the LIFE CarbonGreen project is to scale-up the “ThorSpin” process and demonstrate its cost-effectiveness and value to convert Carbon (Glass) Fibre Reinforced Polymer Composites (CFRP and GFRP) waste from end-of-life wind turbines and other carbon rich waste streams (biomass, manufacturing scrap) into into high-value micro-carbon.  The ThorSpin process is based on energy-efficient and waste-less mechanical chemistry technology, which has been developed by the project partners. Micro-carbon will be used to produce its CarbonGreen (CG)-products. The project also aims to optimize and characterise these CG-products to ensure their market acceptance by different industries. It is expected that the technology will reach TRL 8 at project end and demonstrate the feasibility of the ThorSpin and CG-products in real-world environments.
+
+The project supports the Roadmap to a Resource Efficient Europe, the implementation of the Circular Economy Action Plan, the European Green Deal, the Waste Framework Directive, and the Water Framework Directive.
+
+
+RESULTS
+Expected results:
+
+During its lifetime, the project is expected to:
+
+Contribute to greenhouse gas (GHG) reductions of more than 14 000 tons CO2 equiv.;
+Waste reduction of 1 750 tons;
+Demonstrate pollutant removal in indoor air, biogas and water with products that use activated carbon produced/regenerated using the proposed technology.
+The project contributes towards the implementation of the Water Framework Directive by offering a cheaper and environmentally more beneficial alternative to produce and regenerate activated carbon used in the treatment of wastewater. It is expected to bring to market financially viable technology that will prevent waste generation, by converting waste into high-value products that are commonly used and have a significant market demand.
+

@@ -1,0 +1,729 @@
+x_perproj_matrix1:  (array([[ 727.38],
+       [ 818.5 ],
+       [ 918.62],
+       [ 775.15],
+       [1260.63],
+       [1087.38],
+       [ 881.31],
+       [1009.37],
+       [ 786.67],
+       [ 891.52],
+       [1097.25],
+       [ 922.61],
+       [ 970.58],
+       [1430.1 ],
+       [ 442.18],
+       [ 874.2 ],
+       [ 660.36],
+       [ 973.02],
+       [1000.11],
+       [ 987.02]]), array([[1226.62],
+       [1692.5 ],
+       [1776.38],
+       [1883.85],
+       [1557.37],
+       [1728.62],
+       [1677.69],
+       [1757.63],
+       [1198.33],
+       [1178.48],
+       [1748.75],
+       [2073.39],
+       [1505.42],
+       [2667.9 ],
+       [ 470.82],
+       [1400.8 ],
+       [1145.64],
+       [1190.98],
+       [1055.89],
+       [1452.98]]))
+Generation 0: Max NPV = (array([18226.23]), 1.0)
+Generation 1: Max NPV = (array([18741.88]), 1.0)
+Generation 2: Max NPV = (array([18741.88]), 1.0)
+Generation 3: Max NPV = (array([18741.88]), 1.0)
+Generation 4: Max NPV = (array([19108.27]), 0.91)
+Generation 5: Max NPV = (array([19108.27]), 0.91)
+Generation 6: Max NPV = (array([19108.27]), 0.91)
+Generation 7: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 8: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 9: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 10: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 11: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 12: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 13: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 14: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 15: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 16: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 17: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 18: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 19: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 20: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 21: Max NPV = (array([19525.73]), 0.9299999999999999)
+Generation 22: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 23: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 24: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 25: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 26: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 27: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 28: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 29: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 30: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 31: Max NPV = (array([19578.17]), 0.9299999999999999)
+Generation 32: Max NPV = (array([19606.46]), 0.99)
+Generation 33: Max NPV = (array([19606.46]), 0.99)
+Generation 34: Max NPV = (array([19606.46]), 0.99)
+Generation 35: Max NPV = (array([19606.46]), 0.99)
+Generation 36: Max NPV = (array([19626.59]), 0.99)
+Generation 37: Max NPV = (array([19626.59]), 0.99)
+Generation 38: Max NPV = (array([19626.59]), 0.99)
+Generation 39: Max NPV = (array([19626.59]), 0.99)
+Generation 40: Max NPV = (array([19626.59]), 0.99)
+Generation 41: Max NPV = (array([19626.59]), 0.99)
+Generation 42: Max NPV = (array([19626.59]), 0.99)
+Generation 43: Max NPV = (array([19626.59]), 0.99)
+Generation 44: Max NPV = (array([19626.59]), 0.99)
+Generation 45: Max NPV = (array([19626.59]), 0.99)
+Generation 46: Max NPV = (array([19626.59]), 0.99)
+Generation 47: Max NPV = (array([19626.59]), 0.99)
+Generation 48: Max NPV = (array([19626.59]), 0.99)
+Generation 49: Max NPV = (array([19626.59]), 0.99)
+Generation 50: Max NPV = (array([19626.59]), 0.99)
+Generation 51: Max NPV = (array([19626.59]), 0.99)
+Generation 52: Max NPV = (array([19626.59]), 0.99)
+Generation 53: Max NPV = (array([19626.59]), 0.99)
+Generation 54: Max NPV = (array([19626.59]), 0.99)
+Generation 55: Max NPV = (array([19626.59]), 0.99)
+Generation 56: Max NPV = (array([19626.59]), 0.99)
+Generation 57: Max NPV = (array([19626.59]), 0.99)
+Generation 58: Max NPV = (array([19626.59]), 0.99)
+Generation 59: Max NPV = (array([19626.59]), 0.99)
+Generation 60: Max NPV = (array([19626.59]), 0.99)
+Generation 61: Max NPV = (array([19626.59]), 0.99)
+Generation 62: Max NPV = (array([19626.59]), 0.99)
+Generation 63: Max NPV = (array([19626.59]), 0.99)
+Generation 64: Max NPV = (array([19626.59]), 0.99)
+Generation 65: Max NPV = (array([19626.59]), 0.99)
+Generation 66: Max NPV = (array([19626.59]), 0.99)
+Generation 67: Max NPV = (array([19626.59]), 0.99)
+Generation 68: Max NPV = (array([19626.59]), 0.99)
+Generation 69: Max NPV = (array([19626.59]), 0.99)
+Generation 70: Max NPV = (array([19626.59]), 0.99)
+Generation 71: Max NPV = (array([19626.59]), 0.99)
+Generation 72: Max NPV = (array([19626.59]), 0.99)
+Generation 73: Max NPV = (array([19626.59]), 0.99)
+Generation 74: Max NPV = (array([19626.59]), 0.99)
+Generation 75: Max NPV = (array([19626.59]), 0.99)
+Generation 76: Max NPV = (array([19626.59]), 0.99)
+Generation 77: Max NPV = (array([19626.59]), 0.99)
+Generation 78: Max NPV = (array([19626.59]), 0.99)
+Generation 79: Max NPV = (array([19626.59]), 0.99)
+Generation 80: Max NPV = (array([19626.59]), 0.99)
+Generation 81: Max NPV = (array([19626.59]), 0.99)
+Generation 82: Max NPV = (array([19626.59]), 0.99)
+Generation 83: Max NPV = (array([19626.59]), 0.99)
+Generation 84: Max NPV = (array([19626.59]), 0.99)
+Generation 85: Max NPV = (array([19626.59]), 0.99)
+Generation 86: Max NPV = (array([19626.59]), 0.99)
+Generation 87: Max NPV = (array([19626.59]), 0.99)
+Generation 88: Max NPV = (array([19626.59]), 0.99)
+Generation 89: Max NPV = (array([19626.59]), 0.99)
+Generation 90: Max NPV = (array([19626.59]), 0.99)
+Generation 91: Max NPV = (array([19626.59]), 0.99)
+Generation 92: Max NPV = (array([19626.59]), 0.99)
+Generation 93: Max NPV = (array([19626.59]), 0.99)
+Generation 94: Max NPV = (array([19626.59]), 0.99)
+Generation 95: Max NPV = (array([19626.59]), 0.99)
+Generation 96: Max NPV = (array([19626.59]), 0.99)
+Generation 97: Max NPV = (array([19626.59]), 0.99)
+Generation 98: Max NPV = (array([19626.59]), 0.99)
+Generation 99: Max NPV = (array([19626.59]), 0.99)
+Generation 100: Max NPV = (array([19626.59]), 0.99)
+Generation 101: Max NPV = (array([19626.59]), 0.99)
+Generation 102: Max NPV = (array([19626.59]), 0.99)
+Generation 103: Max NPV = (array([19626.59]), 0.99)
+Generation 104: Max NPV = (array([19626.59]), 0.99)
+Generation 105: Max NPV = (array([19626.59]), 0.99)
+Generation 106: Max NPV = (array([19626.59]), 0.99)
+Generation 107: Max NPV = (array([19626.59]), 0.99)
+Generation 108: Max NPV = (array([19626.59]), 0.99)
+Generation 109: Max NPV = (array([19626.59]), 0.99)
+Generation 110: Max NPV = (array([19626.59]), 0.99)
+Generation 111: Max NPV = (array([19626.59]), 0.99)
+Generation 112: Max NPV = (array([19626.59]), 0.99)
+Generation 113: Max NPV = (array([19626.59]), 0.99)
+Generation 114: Max NPV = (array([19626.59]), 0.99)
+Generation 115: Max NPV = (array([19626.59]), 0.99)
+Generation 116: Max NPV = (array([19626.59]), 0.99)
+Generation 117: Max NPV = (array([19626.59]), 0.99)
+Generation 118: Max NPV = (array([19626.59]), 0.99)
+Generation 119: Max NPV = (array([19626.59]), 0.99)
+Generation 120: Max NPV = (array([19626.59]), 0.99)
+Generation 121: Max NPV = (array([19626.59]), 0.99)
+Generation 122: Max NPV = (array([19626.59]), 0.99)
+Generation 123: Max NPV = (array([19626.59]), 0.99)
+Generation 124: Max NPV = (array([19626.59]), 0.99)
+Generation 125: Max NPV = (array([19626.59]), 0.99)
+Generation 126: Max NPV = (array([19626.59]), 0.99)
+Generation 127: Max NPV = (array([19626.59]), 0.99)
+Generation 128: Max NPV = (array([19626.59]), 0.99)
+Generation 129: Max NPV = (array([19626.59]), 0.99)
+Generation 130: Max NPV = (array([19626.59]), 0.99)
+Generation 131: Max NPV = (array([19626.59]), 0.99)
+Generation 132: Max NPV = (array([19626.59]), 0.99)
+Generation 133: Max NPV = (array([19626.59]), 0.99)
+Generation 134: Max NPV = (array([19626.59]), 0.99)
+Generation 135: Max NPV = (array([19626.59]), 0.99)
+Generation 136: Max NPV = (array([19626.59]), 0.99)
+Generation 137: Max NPV = (array([19626.59]), 0.99)
+Generation 138: Max NPV = (array([19626.59]), 0.99)
+Generation 139: Max NPV = (array([19626.59]), 0.99)
+Generation 140: Max NPV = (array([19626.59]), 0.99)
+Generation 141: Max NPV = (array([19626.59]), 0.99)
+Generation 142: Max NPV = (array([19626.59]), 0.99)
+Generation 143: Max NPV = (array([19626.59]), 0.99)
+Generation 144: Max NPV = (array([19626.59]), 0.99)
+Generation 145: Max NPV = (array([19626.59]), 0.99)
+Generation 146: Max NPV = (array([19626.59]), 0.99)
+Generation 147: Max NPV = (array([19626.59]), 0.99)
+Generation 148: Max NPV = (array([19626.59]), 0.99)
+Generation 149: Max NPV = (array([19626.59]), 0.99)
+Generation 150: Max NPV = (array([19738.75]), 0.99)
+Generation 151: Max NPV = (array([19738.75]), 0.99)
+Generation 152: Max NPV = (array([19738.75]), 0.99)
+Generation 153: Max NPV = (array([19738.75]), 0.99)
+Generation 154: Max NPV = (array([19738.75]), 0.99)
+Generation 155: Max NPV = (array([19738.75]), 0.99)
+Generation 156: Max NPV = (array([19738.75]), 0.99)
+Generation 157: Max NPV = (array([19738.75]), 0.99)
+Generation 158: Max NPV = (array([19738.75]), 0.99)
+Generation 159: Max NPV = (array([19738.75]), 0.99)
+Generation 160: Max NPV = (array([19738.75]), 0.99)
+Generation 161: Max NPV = (array([19738.75]), 0.99)
+Generation 162: Max NPV = (array([19738.75]), 0.99)
+Generation 163: Max NPV = (array([19738.75]), 0.99)
+Generation 164: Max NPV = (array([19738.75]), 0.99)
+Generation 165: Max NPV = (array([19738.75]), 0.99)
+Generation 166: Max NPV = (array([19738.75]), 0.99)
+Generation 167: Max NPV = (array([19738.75]), 0.99)
+Generation 168: Max NPV = (array([19738.75]), 0.99)
+Generation 169: Max NPV = (array([19738.75]), 0.99)
+Generation 170: Max NPV = (array([19738.75]), 0.99)
+Generation 171: Max NPV = (array([19738.75]), 0.99)
+Generation 172: Max NPV = (array([19738.75]), 0.99)
+Generation 173: Max NPV = (array([19738.75]), 0.99)
+Generation 174: Max NPV = (array([19738.75]), 0.99)
+Generation 175: Max NPV = (array([19738.75]), 0.99)
+Generation 176: Max NPV = (array([19738.75]), 0.99)
+Generation 177: Max NPV = (array([19738.75]), 0.99)
+Generation 178: Max NPV = (array([19738.75]), 0.99)
+Generation 179: Max NPV = (array([19738.75]), 0.99)
+Generation 180: Max NPV = (array([19738.75]), 0.99)
+Generation 181: Max NPV = (array([19738.75]), 0.99)
+Generation 182: Max NPV = (array([19738.75]), 0.99)
+Generation 183: Max NPV = (array([19738.75]), 0.99)
+Generation 184: Max NPV = (array([19738.75]), 0.99)
+Generation 185: Max NPV = (array([19738.75]), 0.99)
+Generation 186: Max NPV = (array([19738.75]), 0.99)
+Generation 187: Max NPV = (array([19738.75]), 0.99)
+Generation 188: Max NPV = (array([19738.75]), 0.99)
+Generation 189: Max NPV = (array([19738.75]), 0.99)
+Generation 190: Max NPV = (array([19738.75]), 0.99)
+Generation 191: Max NPV = (array([19738.75]), 0.99)
+Generation 192: Max NPV = (array([19738.75]), 0.99)
+Generation 193: Max NPV = (array([19738.75]), 0.99)
+Generation 194: Max NPV = (array([19738.75]), 0.99)
+Generation 195: Max NPV = (array([19738.75]), 0.99)
+Generation 196: Max NPV = (array([19738.75]), 0.99)
+Generation 197: Max NPV = (array([19738.75]), 0.99)
+Generation 198: Max NPV = (array([19738.75]), 0.99)
+Generation 199: Max NPV = (array([19738.75]), 0.99)
+Generation 200: Max NPV = (array([19738.75]), 0.99)
+Generation 201: Max NPV = (array([19738.75]), 0.99)
+Generation 202: Max NPV = (array([19738.75]), 0.99)
+Generation 203: Max NPV = (array([19738.75]), 0.99)
+Generation 204: Max NPV = (array([19738.75]), 0.99)
+Generation 205: Max NPV = (array([19738.75]), 0.99)
+Generation 206: Max NPV = (array([19738.75]), 0.99)
+Generation 207: Max NPV = (array([19738.75]), 0.99)
+Generation 208: Max NPV = (array([19738.75]), 0.99)
+Generation 209: Max NPV = (array([19738.75]), 0.99)
+Generation 210: Max NPV = (array([19738.75]), 0.99)
+Generation 211: Max NPV = (array([19738.75]), 0.99)
+Generation 212: Max NPV = (array([19738.75]), 0.99)
+Generation 213: Max NPV = (array([19738.75]), 0.99)
+Generation 214: Max NPV = (array([19738.75]), 0.99)
+Generation 215: Max NPV = (array([19738.75]), 0.99)
+Generation 216: Max NPV = (array([19738.75]), 0.99)
+Generation 217: Max NPV = (array([19738.75]), 0.99)
+Generation 218: Max NPV = (array([19738.75]), 0.99)
+Generation 219: Max NPV = (array([19738.75]), 0.99)
+Generation 220: Max NPV = (array([19738.75]), 0.99)
+Generation 221: Max NPV = (array([19738.75]), 0.99)
+Generation 222: Max NPV = (array([19738.75]), 0.99)
+Generation 223: Max NPV = (array([19738.75]), 0.99)
+Generation 224: Max NPV = (array([19738.75]), 0.99)
+Generation 225: Max NPV = (array([19738.75]), 0.99)
+Generation 226: Max NPV = (array([19738.75]), 0.99)
+Generation 227: Max NPV = (array([19738.75]), 0.99)
+Generation 228: Max NPV = (array([19738.75]), 0.99)
+Generation 229: Max NPV = (array([19738.75]), 0.99)
+Generation 230: Max NPV = (array([19738.75]), 0.99)
+Generation 231: Max NPV = (array([19738.75]), 0.99)
+Generation 232: Max NPV = (array([19738.75]), 0.99)
+Generation 233: Max NPV = (array([19738.75]), 0.99)
+Generation 234: Max NPV = (array([19738.75]), 0.99)
+Generation 235: Max NPV = (array([19738.75]), 0.99)
+Generation 236: Max NPV = (array([19738.75]), 0.99)
+Generation 237: Max NPV = (array([19738.75]), 0.99)
+Generation 238: Max NPV = (array([19738.75]), 0.99)
+Generation 239: Max NPV = (array([19738.75]), 0.99)
+Generation 240: Max NPV = (array([19738.75]), 0.99)
+Generation 241: Max NPV = (array([19738.75]), 0.99)
+Generation 242: Max NPV = (array([19738.75]), 0.99)
+Generation 243: Max NPV = (array([19738.75]), 0.99)
+Generation 244: Max NPV = (array([19738.75]), 0.99)
+Generation 245: Max NPV = (array([19738.75]), 0.99)
+Generation 246: Max NPV = (array([19738.75]), 0.99)
+Generation 247: Max NPV = (array([19738.75]), 0.99)
+Generation 248: Max NPV = (array([19738.75]), 0.99)
+Generation 249: Max NPV = (array([19738.75]), 0.99)
+Generation 250: Max NPV = (array([19738.75]), 0.99)
+Generation 251: Max NPV = (array([19738.75]), 0.99)
+Generation 252: Max NPV = (array([19738.75]), 0.99)
+Generation 253: Max NPV = (array([19738.75]), 0.99)
+Generation 254: Max NPV = (array([19738.75]), 0.99)
+Generation 255: Max NPV = (array([19738.75]), 0.99)
+Generation 256: Max NPV = (array([19738.75]), 0.99)
+Generation 257: Max NPV = (array([19738.75]), 0.99)
+Generation 258: Max NPV = (array([19738.75]), 0.99)
+Generation 259: Max NPV = (array([19738.75]), 0.99)
+Generation 260: Max NPV = (array([19738.75]), 0.99)
+Generation 261: Max NPV = (array([19738.75]), 0.99)
+Generation 262: Max NPV = (array([19738.75]), 0.99)
+Generation 263: Max NPV = (array([19738.75]), 0.99)
+Generation 264: Max NPV = (array([19738.75]), 0.99)
+Generation 265: Max NPV = (array([19738.75]), 0.99)
+Generation 266: Max NPV = (array([19738.75]), 0.99)
+Generation 267: Max NPV = (array([19738.75]), 0.99)
+Generation 268: Max NPV = (array([19738.75]), 0.99)
+Generation 269: Max NPV = (array([19738.75]), 0.99)
+Generation 270: Max NPV = (array([19738.75]), 0.99)
+Generation 271: Max NPV = (array([19738.75]), 0.99)
+Generation 272: Max NPV = (array([19738.75]), 0.99)
+Generation 273: Max NPV = (array([19738.75]), 0.99)
+Generation 274: Max NPV = (array([19738.75]), 0.99)
+Generation 275: Max NPV = (array([19738.75]), 0.99)
+Generation 276: Max NPV = (array([19738.75]), 0.99)
+Generation 277: Max NPV = (array([19738.75]), 0.99)
+Generation 278: Max NPV = (array([19738.75]), 0.99)
+Generation 279: Max NPV = (array([19738.75]), 0.99)
+Generation 280: Max NPV = (array([19738.75]), 0.99)
+Generation 281: Max NPV = (array([19738.75]), 0.99)
+Generation 282: Max NPV = (array([19738.75]), 0.99)
+Generation 283: Max NPV = (array([19738.75]), 0.99)
+Generation 284: Max NPV = (array([19738.75]), 0.99)
+Generation 285: Max NPV = (array([19738.75]), 0.99)
+Generation 286: Max NPV = (array([19738.75]), 0.99)
+Generation 287: Max NPV = (array([19738.75]), 0.99)
+Generation 288: Max NPV = (array([19738.75]), 0.99)
+Generation 289: Max NPV = (array([19738.75]), 0.99)
+Generation 290: Max NPV = (array([19738.75]), 0.99)
+Generation 291: Max NPV = (array([19738.75]), 0.99)
+Generation 292: Max NPV = (array([19738.75]), 0.99)
+Generation 293: Max NPV = (array([19738.75]), 0.99)
+Generation 294: Max NPV = (array([19738.75]), 0.99)
+Generation 295: Max NPV = (array([19738.75]), 0.99)
+Generation 296: Max NPV = (array([19738.75]), 0.99)
+Generation 297: Max NPV = (array([19738.75]), 0.99)
+Generation 298: Max NPV = (array([19738.75]), 0.99)
+Generation 299: Max NPV = (array([19738.75]), 0.99)
+Hall of Fame:
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0] [19738.75] 0.99 [10638.25]
+[0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0] [19710.46] 0.95 [10697.54]
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1] [19686.31] 0.99 [10654.69]
+[0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0] [19657.77] 1.0 [10571.23]
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0] [19634.13] 1.0 [10541.87]
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19626.59] 0.99 [10653.41]
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19606.46] 0.99 [10643.54]
+[0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19598.3] 0.9299999999999999 [10712.7]
+************ SUMMARY STAGE 1 **********
+npv_results:  [[19738.75], [19710.46], [19686.31], [19657.769999999997], [19634.13], [19626.59], [19606.46], [19598.3]]
+portfolio_results:  [[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0], [0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1], [0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0], [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0]]
+portfolio_confidence_levels:  [[0.99], [0.95], [0.99], [1.0], [1.0], [0.99], [0.99], [0.9299999999999999]]
+budgets:  [[10638.25], [10697.54], [10654.69], [10571.230000000001], [10541.87], [10653.41], [10643.54], [10712.7]]
+portfolio_projection:  [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1]
+Indexes of selected projects:  [0, 1, 2, 3, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 19]
+Number of candidate projects for stage 2:  16
+Chosen projects:  [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 20]
+length of project summaries 20
+Summary_Promising_Projects:  Project 1: PROJECT DESCRIPTION
+BACKGROUND
+The European wine industry produces 28 million tonnes of grapes annually and nearly 5.6 million tonnes of grape pomaces. Around 40% of this output is considered as low-value waste (e.g. fertiliser or fuel) although grape seeds are typically rich in valuable proteins. Indeed, the proteins extracted from grape seeds (EPV) can be used in a key phase of the winemaking process known as clarification – i.e. the removal of insoluble matter suspended in the wine before bottling.
+
+ 
+
+
+OBJECTIVES
+The project SEEDSPRO2WINE aims to implement a circular business model based on an industrial process for extracting proteins from de-tannificated grapes to be used as a fining agent in the wine industry.
+
+Specifically, the project aims to:
+
+Reintroduce winemaking residues, currently used as organic soil compost and burned as energy, into the winemaking production process as a fining agent that removes undesirable elements from wine; and
+Replace the commonly used protein of animal origin (which has a high environmental footprint) and protein extracts from crops such as pea and potato with a plant-based protein for the clarification of wines.
+
+RESULTS
+Expected results:
+
+Development of an EPV extraction plant (TRL8) and of a related business model.
+Extraction of 35 tonnes of EPV from grape seeds.
+Treatment of 675 tonnes of post-wining residues.
+Reduction of CO2 emissions by around 384-1200 kg/year by project end and by 1920-6000 kg of CO2/year five years after its conclusion.
+Certification of the EPV process according to the standards of International Organisation of Vine and Wine (OIV).
+Engagement of 200 European stakeholders in the wine sector in replication activities.
+
+Project 2: PROJECT DESCRIPTION
+BACKGROUND
+Mobile marine species suffer from various threats at sea and on coasts. Risks are multiple: mortality in fishing gear (bycatch, post-catch mortality, ghost fishing), loss of functional habitats (including IAS) and disturbance. These threats lead to mortality, injury and reproductive failure. LIFE Mobile Marine Species aims to improve the conservation of four marine taxa: 5 elasmobranchs, 4 marine mammals, 12 seabirds and 2 sea turtles and their representative species. These taxa face similar threats that can only be effectively addressed jointly by: - Restoring and protecting functional important habitats for marine species with 630 favorable nesting sites restored, created or depolluted (and 50 related deaths avoided), and 200 ha of mudflats restored. - Reducing predation by non-native species on seabird by protecting 34% to 100% of the breeding population of 7 seabird species (depending on the species). - Reducing the pressure of disturbance due to uses on coast and at sea on marine species with 152 professional organisations and municipalities involved to improve their practices, efficient digital tools available for all Metropolitan coasts(+40,000 users) and the creation of 42 Strong Protection Areas (Zones de protection forte). - Reducing species mortality due to fishing gear: 22 devices tested to reduce by-catch on 89 boats representing 2% of metropolitan fleet (6000 days at sea monitored), reducing by at least 50% by-catch of marine turtles, birds and elasmobranchs on these boats and by 1/3 by-catch of dolphins and seals; 520 boats use tested by-catch reduction devices, 100 ghost nets removed, one new biodegradable net developed; new regulatory measures. - Increasing the acceptability of conservation measures and ensuring their sustainability and widespread replication. Life MMS has been co-constructed with stakeholders. It has broad support from administration, professionals, NGOs and scientists that will enable it to reach its goals
+
+
+Project 3: PROJECT DESCRIPTION
+BACKGROUND
+The long-term impact of the project is creation of an effective governance and management system of Emerald network in Ukraine as a basis for implementation of Birds and Habitats Directives and Natura2000 in Ukraine. The project will identify necessary changes in Ukrainian legislation and prepare a clear roadmap for steps leading to full transposition and implementation of the Directives into the Ukrainian legal system. A road map to enhance and improve the Emerald network will be provided. Organizational structure of nature conservation authorities in Ukraine will be assessed, enhancement will be proposed. Guidance documents highlighting best practice will be elaborated and disseminated. The capacity of Ukrainian authorities in nature conservation will be increased and opportunities to train new leaders in this field will be created. The project will identify the necessary steps to improve the management and monitoring of Emerald/Natura2000 sites, together with a realistic plan. The Ministry of Environmental Protection and Natural Resources of Ukraine as an associated partner is devoted to take the developed policy paper and proposals for increasing institutional capacity as a basis for the preparation of institutional reform in the field of nature protection with the purpose of bringing it closer to EU best practices. Demonstration of the practical implementation of the requirements of the Directives on the example of the Emerald Network pilot site will be carried out and the results will be replicated in outher sites of the network. The capacity and willingness of the young generation/future public officials for the implementation of the Directives will be improved. Key stakeholder groups and the wider public will be engaged into establishment of a good governance and management system of natural protection. The partnership between Ukraine and the Czech Republic (and the EU) will be strengthened, personal contacts established and further cooperation encouraged.
+
+
+Project 4: PROJECT DESCRIPTION
+BACKGROUND
+This project aims to create the necessary socioecological conditions for Iberian wolf and Iberian lynx in a transboundary area south of the Douro River that both species are starting to recolonize. Improving ecological conditions will include increasing abundance of wild prey and improving habitat. Improving social conditions will include promoting positive coexistence with rural communities and socioeconomic local development, as well as increasing capacity and knowledge exchange in the assessment of damage prevention and the detection of environmental crime.
+
+
+Project 6: PROJECT DESCRIPTION
+BACKGROUND
+The aim of the project is to take measures to ensure the protection of the priority species of the EU Habitat Directive - Osmoderma eremita by creating a transboundary ecological network connecting Lithuanian and Latvian populations of this species, also reaching the border populations of North Poland and South Estonia, and envisaging research and the creation of the new Natura 2000 sites or the extension of existing ones in order to create a Natura 2000 network in accordance with the requirements of the Habitats Directive. The project is based on a stepwise approach that includes the identification of important areas for Osmoderma with large scale inventory and setting the necessary network for protection both inside and outside the Natura 2000 network, planning management activities both on a local scale (parks, avenues) and on a broader scale at Natura 2000 level (management plans for Natura 2000 sites), identifying the problematic aspects in the protection of the target species and finding solutions and providing tools to solve the identified problems (species conservation plan), and implementing habitat restoration throughout the entire ecological network. To improve the nature conservation system and its effectiveness, the Project focuses on solutions that will have a long-term impact that reaches far beyond the project lifetime. The Project is ambitious and tends to find effective legislative, administrative, and knowledge-based tools. The Project will strengthen the collaboration among governmental bodies, local municipalities, scientific institutions, non-governmental organizations, and the wide community. The Consortium of Beneficiaries representing different fields of activity will complement each other and create synergies. The project includes a large number of activities aimed at the general public, as they have a key role in ensuring sustainable management and conservation of Osmoderma habitats.
+Project 7: PROJECT DESCRIPTION
+BACKGROUND
+The current conservation status of habitats in the Atlantic Biogeographical Region (ABR) of Wallonia is particularly worrying due to the high concentration of human activities on this territory (intensive agriculture, urbanisation, etc.). These activities have gradually degraded natural areas of biological interest, which, for the most part, no longer exist except in the form of small isolated pockets in a largely impoverished landscape which is subject to significant anthropogenic pressures. This context poses a particular challenge for the implementation of Natura 2000 (N2000) in the region. The priority here is thus the restoration and protection of habitats within N2000 sites. However, to make them ecologically viable in the long term, it is essential to restore, reconnect and protect the isolated fragments of habitats still located outside the N2000 sites. To respond to these priorities, the LIFE AtlanticValleys considers Wallonia's ABR valleys as a single integrated ecosystem, targeting habitats ranging from transition biotopes located at the top of the catchment area to wetlands where water accumulates. This project will build on the knowledge generated by the LIFE BNIP (2015-2022) and implement some of its action and management plans. The project targets 16 N2000 sites in the Brabant and Hainaut valleys, and, in a logic of reconnection, also gives itself the possibility of intervening within a 10 km radius of these sites. More specifically, the project aims to restore 230 ha of habitats of community interest (2330, 3150, 4030, 6230*, 6410, 6430, 6510, 9190, 91E0*) and habitats favourable to species of community interest (reed beds, ponds, wet and flood-prone meadows), create 100 ha of new protected areas, set up an initiative which encourages landowners located close to the restored sites to implement biodiversity friendly practices on their green spaces, strengthen Triturus cristatus populations, share project results as well as raise public awareness.
+Project 8: PROJECT DESCRIPTION
+BACKGROUND
+There are a number of different carbon waste streams without a suitable recycling solution, for example: surplus manure in agriculture, biomass residues from agricultural processes and wood waste, spent activated carbon from industrial processes contaminated with persistent organic pollutants, and Carbon (Glass) Fibre Reinforced Polymer Composites (CFRP and GFRP) waste from end-of-life components from automotive, aerospace and wind energy. There are, for instance, no easy ways of recycling wind turbine blades. The conventional approach has been landfilling, incineration or recovery by using cement co-processing technology. However, none of these are sustainable approaches. If no suitable solution is found, it may hamper further expansion of the use of wind turbines. This is particularly alarming as end-of-life wind turbines are expected to reach 50 kton/y in 2020 and 100 kton/y by 2034. The experimental “ThorSpin” process is a promising new technology for recovering and recycling CFRP and GFRP.
+
+
+OBJECTIVES
+The overall objective of the LIFE CarbonGreen project is to scale-up the “ThorSpin” process and demonstrate its cost-effectiveness and value to convert Carbon (Glass) Fibre Reinforced Polymer Composites (CFRP and GFRP) waste from end-of-life wind turbines and other carbon rich waste streams (biomass, manufacturing scrap) into into high-value micro-carbon.  The ThorSpin process is based on energy-efficient and waste-less mechanical chemistry technology, which has been developed by the project partners. Micro-carbon will be used to produce its CarbonGreen (CG)-products. The project also aims to optimize and characterise these CG-products to ensure their market acceptance by different industries. It is expected that the technology will reach TRL 8 at project end and demonstrate the feasibility of the ThorSpin and CG-products in real-world environments.
+
+The project supports the Roadmap to a Resource Efficient Europe, the implementation of the Circular Economy Action Plan, the European Green Deal, the Waste Framework Directive, and the Water Framework Directive.
+
+
+RESULTS
+Expected results:
+
+During its lifetime, the project is expected to:
+
+Contribute to greenhouse gas (GHG) reductions of more than 14 000 tons CO2 equiv.;
+Waste reduction of 1 750 tons;
+Demonstrate pollutant removal in indoor air, biogas and water with products that use activated carbon produced/regenerated using the proposed technology.
+The project contributes towards the implementation of the Water Framework Directive by offering a cheaper and environmentally more beneficial alternative to produce and regenerate activated carbon used in the treatment of wastewater. It is expected to bring to market financially viable technology that will prevent waste generation, by converting waste into high-value products that are commonly used and have a significant market demand.
+
+
+Project 9: PROJECT DESCRIPTION
+BACKGROUND
+Food waste refers to the discarding or alternative (non-food) use of food that was fit for human consumption. In the EU, the most recent estimates (Fusion, 2016) found that 20% of the total food produced is lost or wasted. This means around 88 million tonnes, €143 billion, or 173 kg food per individual per year; more than 50% of which is considered to be still edible at the time it is thrown away.
+
+Food waste has a huge environmental impact. It accounts for about 6% of total EU greenhouse gas emissions and puts an unnecessary burden on natural resources, such as land and water use. The reuse of food waste through the food chain is therefore a necessity.
+
+At EU level, food waste prevention is singled out as a priority area of the Circular Economy Package, as well as of the waste legislation adopted in 2018 (Directive 2018/851). The EUs action plan aims to help achieve the global Sustainable Development Goal Target 12.3 to halve per capita food waste at the retail and consumer level by 2030, and reduce food losses along the food production and supply chains.
+
+France established in 2016 a strong legislative framework on food waste prevention with the Garot law. The main measure was to oblige every retailer over 400 square meters to donate their unsold products (compulsory and untaxed). This measure was extended in 2018 to the food industry and catering industry.
+
+The French regulation on the support to products manufactured by disabled people is also important to the context of the project.
+
+
+ 
+
+
+OBJECTIVES
+LIFE SOLI FOOD WASTE (SFW) aimed to contribute to food waste reduction and the social economy. The project aimed to build a transformation unit to process 600 tonnes of discarded or unsold bread and 500 tonnes of discarded or unsold fruit and vegetables, to demonstrate the economic feasibility of this supply chain.
+
+SFW would manage its environmental impacts through five main indicators (Carbon, Water, Fertilizer and Pesticides footprints, and Utilised agricultural land footprint). The project also aimed at creating sustainable employment positions for disabled people. Within the project lifetime, the replication phase would be prepared and implemented using a communication campaign targeted at current or future partners (e.g. retailers, social and solidarity economy operators) and the launching of other food transformation units.
+
+ 
+
+
+RESULTS
+The SoliFoodWaste project did not achieve its aim to demonstrate the technical and economic viability of food waste reuse at large scale, while creating jobs for workers with major disabilities, since it failed to develop a large-scale processing unit. The team were unable to find an adequate building in the area of Nantes, which was central to the project. In the small scale tests, they experienced difficulties related to variable quality of unsold food products, transport and cost-efficiency. Adapting an industrial process for people with mental disabilities was also a challenge, but the collaboration with some monitors of disabled people was promising.
+
+However, at small scale, the following outcomes were achieved:
+
+The consolidation of ESAT Services 44 production line of hand-made cookies including unsold bread, with improved recipes, stable provisioning and client networks;
+The successful testing of anti-waste and solidarity "corners" installed in shopping malls;
+Several collaborations with ESATS including  jam production from unsold fruit and the transformation of bread into dried powder for animal feed;
+A large communication that raised awareness on the issue of food waste, possible solutions and the working abilities of people with mental disabilities;
+A study mapping the main features of food waste and protected work in EU Member States to understand the different contexts and international consider networking; and
+A life cycle assessment on food production containing unsold bread showing the environmental contradiction or challenges to unsold bread valorisation.
+The project partners have pledged to continue their efforts to reduce food waste, share the lessons learned of SoliFood Waste and support other initiatives locally or in other countries after the end of the project.
+
+Further information on the project can be found in the project's After-LIFE Communication Plan (see "Read more" section).
+
+
+Project 11: PROJECT DESCRIPTION
+BACKGROUND
+An estimated 88 million tonnes of food waste is generated annually across the food supply chain (FSC) in the EU, representing around 20% of total food production. Retail and wholesale is responsible for an estimated 5 million tonnes (5%), of which 83% (3.8m tonnes) is considered avoidable. It is thus the FSC section with the highest waste reduction potential. Furthermore, around 6% of total GHG emissions in EU and 8% of global GHG emissions result directly from food waste. The impact of food waste also has socio-economic and ethical consequences.
+
+
+OBJECTIVES
+The main objective of the LIFEfoodCycle project is to implement a business model in the food retail sector that optimises food chains and reduces food waste (by at least 10%, equalling 1 600t/year), along with related emissions. The project plans to provide European food retailers and stakeholders with a user-friendly digital tool, Circular Economy Market Place (CEMP), to facilitate the trade of food surplus that is nearing its expiry date, which is currently treated as waste. It will thus promote environmentally sustainable business practices in the EU.
+
+Specifically, the project aims to:
+
+Create a local digital CEMP to facilitate the trade of food surplus;
+Enrol around 10 local B2B users (businesses and charities) per supermarket and 50 supermarkets in total (i.e. 500 users in total) in the CEMP;
+Demonstrate themarketability/economic viability of the CEMP and its underlying new B2B business model, by achieving at least 50% profitability rate by the end of the project; and
+Facilitate the adoption and scalability of the solution to other waste products and at other locations while increasing the types of stakeholders (waste suppliers and users) with at least 10 geo-locations and two additional waste products identified during the project.
+ 
+
+The project contributes to the several EU policies, such as the Roadmap to a Resource-Efficient Europe, the EU Action Plan for Circular Economy, the Waste Framework Directive, the Multi-Stakeholder Platform on Food Losses & Waste; the EU Biodiversity Strategy to 2020 and the Green Procurement Policy. It also focuses on the Paris Agreement and the European Court of Auditors Combating Food Waste.
+
+
+RESULTS
+Expected results:
+
+At least 10% of waste avoided, equalling more than 264.9t/year of food waste across the 50 supermarkets enrolled on the CEMP, and more than 1 600t/year across all 302 Continente supermarkets (impact after project duration);
+A total carbon footprint of 546t/year CO2-eq considering 50 participating supermarkets and 3 296t/year CO2-eq considering 302 stores;
+Reduction of transport emissions by 10% due to the decreased need to transport waste to disposal facilities;
+Elimination of the use of 1 248 sheets of paper/year by digitalising all transaction documents;
+Adoption of sustainable business practices by at least 10 local users (B2B and charities) per supermarket (500 users in total);
+Creation of a sustainable and replicable business model for long-term CEMP operation;
+At least 10 locations and two extra waste products identified to which the CEMP can be scaled, multiplying the beneficial environmental and socio-economic impacts across the EU; and
+More than 245 000 individuals/year will be reached via the communication activities, raising awareness of the problem targeted and changed business practices applied.
+
+Project 12: PROJECT DESCRIPTION
+BACKGROUND
+The species and natural habitat types targeted by LIFE Clima-Bombina currently have a poor conservation status. They are located close to sea level and so are vulnerable to climate change, rising sea level and flooding. These species include the European fire-bellied toad (Bombina Bombina) and other amphibians and reptiles. They havesmall populations with poor genetic variation and are at risk of inbreeding.
+
+Other threats to target species include overgrowth caused by insufficient grazing or mowing and accelerated by diffuse nutrient loads, inappropriate hydrology, fragmented habitats, and landowner and the general publics lack of knowledge about Natura 2000.
+
+
+OBJECTIVES
+The aim of the LIFE Clima-Bombina project is to obtain favourable conservation status for the European fire-bellied toad (Bombina bombina) and to contribute to obtaining a favourable conservation status for eight other animal species, nine natural habitat types and four bird species.
+
+This means:
+
+restoring and creating a large number of ponds for the Annex II species Bombina bombina and increasing the population with a supplementary breeding programme and improvements to hibernation areas;
+securing existing and new areas which host nine Annex I habitat typesby comprehensively extending agricultural areas;
+improving habitats for four bird species in Annex I of the Birds Directive;
+supporting seven Annex IV species of amphibians/reptiles and one Annex II amphibian.
+ 
+
+LIFE Clima-Bombina will contribute to halting the loss of biodiversity and support the Natura 2000 network. It will help implement the Habitats Directive and Birds Directive, address EU biodiversity strategy targets and support the EU Water Framework Directive. It will also support EU Rural Development policy and UN sustainable development goals.
+
+
+RESULTS
+Expected results:
+
+a population of B. bombina of at least 2 000 individuals established within 5-10 years by: - building 29 new ponds elevated enough above sea level to prevent flooding; - managing 13 existing habitats and 45 new hibernation sites; - supplementary breeding and restocking of 7 500 individuals;
+improved habitats and conservation status of seven other annex IV amphibians and one reptile species with at least 100 individuals per species;
+connectivity between habitats ensured by extending at least 175ha of agricultural land for: calcareous grassland, dry grasslands, Nardus grassland, salt meadows, Molinia meadows, lowland hay meadows, lakes and grey dunes; and
+a management plan for the project areas and an amphibian action plan.
+
+Project 13: PROJECT DESCRIPTION
+BACKGROUND
+Fish are unusually active animals, changing their habitats over the seasons of the year with the aim of reaching particular stages of their lifecycle. They reproduce in one place, their fry and young feed elsewhere and adult fish prefer other sites as their feeding grounds. The same applies to winter habitats of particular fish generations. With this in mind, it is therefore important to protect the sites that are crucial to fish existence (spawning grounds, migration routes), as well as to preserve periodical river floods – as it is according to the natural rhythm of ebbs and flows that river ichthyofauna accomplish their lifecycle. Disturbing or breaking this rhythm can (in extreme cases) result in extinction, and, often leads to a reduction in numbers of particular fish species. The Rega basin is a relatively cohesive ecosystem. However, the construction of a high number of hydro-technical structures caused a significant decrease in its biodiversity. These structures made it difficult, or even impossible, for fish to arrive at their spawning grounds or inhabit appropriate biotopes, located in the upper course of the river. In the Rega basin there are two Natura 2000 protected sites: the mouth of the Rega river and the Brzeźnicka Węgorza. Since 2005, the Rega river has been restocked with Atlantic salmon (Salmo salar) and a few hundred thousand fry of this species have been put into the river. Since the spawning grounds were not large enough to restock salmon it was necessary to clear spawning channels and create appropriate spawning grounds. By clearing the whole area of the Rega basin some wildlife corridors have been created.
+
+
+OBJECTIVES
+The overall project objective was to increase the biodiversity of the water ecosystems protected by the Natura 2000 sites, by linking them with an ecological corridor. The additional objective was to restock the salmon population in the Rega basin.
+
+Specific project objectives were:
+
+To clear the Rega river and its major tributaries to make them accessible for the fish;
+To create artificial spawning grounds to increase the number of fish inhabiting the Rega river, and to improve the population of Atlantic salmon;
+To record the fish migration to identify when and where fish access the spawning sites in the Rega basin; and
+To create an ecological corridor that will encourage indirect protective measures for the Natura 2000 areas, which for many reasons are now isolated enclaves, with limited possibility to perform various protective actions.
+
+
+ 
+
+
+RESULTS
+
+These objectives were reached by performing the following actions:
+
+Clearing migration routes in the Rega river and its major tributaries by building 23 fish passes;
+Creating artificial spawning grounds and enlarging the area of natural spawning grounds for salmonids to 12,912.68 m2;
+Planting 61,000 trees along the river bank to create shaded areas and lower the water temperature;
+Installation of monitoring devices to keep a record the fish migrating upstream and downstream; and
+Installation of electronic barriers at the sites where re-directing fish away from the water power plants' turbines was necessary.
+As a result of the project implementation, the Rega basin has become again the functional blue corridor for water organisms (in particular for target migratory, anadromous fish populations). Large scale protective measures were introduced for previously isolated Natura 2000 sites (establishment of 19 km of 3 locally protected "ecological areas"). There is evidence of the increase in a number of the target fish species and the spawning nests on the grounds created under the project and naturally occurring along the rivers open by the constructed fish passes.
+
+The project achieved all the foreseen objectives and contributed to enforcement of the Water Framework Directive, Floods Directive, Birds and Habitats Directives, the EU Biodiversity Strategy and for the national policy concerning the Water Law and Natura 2000 sites management.
+
+The project contributed also to the increase of public awareness concerning the conservation measures within the Natura 2000 sites (the Monitoring and Information Centre has been open). The anti-poaching interventions, educational and promotional actions proved to be needed and well organised.
+
+The end of the project was marked with the development of After LIFE Conservation Plan – a document including planned activities aimed at maintaining the effects of the project.
+
+
+Project 14: PROJECT DESCRIPTION
+BACKGROUND
+The dairy industry is one of the primary sources of industrial effluent. Global whey production, the liquid remaining after milk has been curdled and strained, is estimated at 180-190 million tonnes annually. According to estimates at the time of project application in 2016, only 40% of whey was further processed in the EU, especially for smaller producers. The remainder is waste with high chemical oxygen demand (COD). While sweet whey has several commercial uses, the acid (sour) whey often represents a problem for producers. Discharge to wastewater treatment plants is prohibited, and biogas plants are often unwilling to accept whey or charge a high price. According to estimates in 2016, the acid whey was often discharged into sewage system (approximately 150 000 tonnes/year in Slovenia alone). This represents an enormous environmental burden as this by-product has the potential to deplete oxygen levels in water, with repercussions for human health. It is also a non-rational use of valuable natural whey components, including the protein lactoferrin, the market demand for which is very high. Extraction of proteins from acid whey using existing approaches is not technologically feasible and new solutions are needed.
+
+
+OBJECTIVES
+The main objective of the LIFE for Acid Whey project was to demonstrate a new technology for the extraction of high added-value proteins (including lactoferrin, lactoperoxidase and immunoglobulins) from waste whey streams. The Fast-flow Monolith Based Whey Protein Fractionation process was expected to extract lactoferrin, lactoperoxidase and immunoglobulins in an economically-viable way.
+
+Further specific project objectives were to:
+
+Reduce the environmental burden of waste acid whey;
+Provide income to small and medium-sized dairies from the whey by-product instead of incurring costs for its treatment or disposal; and
+Help meet the growing market demand for specific proteins, providing high-quality products at competitive prices compared to alternative production options.
+The project's objectives are strongly linked to various resource efficiency-related policies and legislation, as outlined in the Roadmap to a Resource Efficient Europe and in the EU Action Plan for the Circular Economy. LIFE for Acid Whey aimed to help the dairy industry comply with the Industrial Emissions Directive by introducing a high-tech solution for the extraction of important milk proteins from milk-processing waste streams.
+
+
+ 
+
+
+RESULTS
+The LIFE for Acid Whey project demonstrated an innovative technology, Fastflow Monolith Based Whey Protein Fractionation, for extracting in economical viable way lactoferrin and other high added-value proteins from surplus aid whey streams. It constructed a pilot plant that was able to process 20 m3 of whey a day. The patented extraction process uses monolith chromatographic columns made by the company Bia Separations. 
+
+ 
+
+Independent analysis confirmed that the process produces very high quality lactoferrin, surpassing commercially available food-grade lactoferrin. The solution can help increase the profitability of the EU dairy industry by introducing a high-tech solution for the extraction of important milk proteins from surplus streams of milk processing.  
+ 
+Furthermore, the project identified and tested several other innovative uses for the residual whey that remains after lactoferrin and similar proteins are extracted, as a way of reducing the amount that is transported to the biogas energy plant. It showed that this residual material could be used as a growing medium for the cultivation of various kinds of lactic acid bacteria and yeast, such as kefir grains,  lactococcal strains producing bacteriocin nisin and propionibacterium strain for the production of vitamin B12. 
+ 
+Finally, the project developed a product from the surplus whey for composting household biological waste, along with a shampoo product, whey too Pretty. Both products were manufactured on a pilot scale and used for promotional purposes at various events. These uses of surplus whey further increase the potential socio-economic benefit of the project, providing an additional source of income for the dairy industry. 
+
+ 
+
+Further information on the project can be found in the project's layman report and After-LIFE Communication Plan  (see "Read more" section).
+
+
+Project 15: PROJECT DESCRIPTION
+BACKGROUND
+Forests are an essential factor if the EU is to reach its climate goals. Forest management is the main means to improve their ecosystem services, as well as to increase their resilience to climate change. These objectives can be specifically reached by increasing the carbon stocks of forests, and reducing the impacts of the supply chain for wood products through the development of incentives and credit trading schemes for companies in the wood sector.
+
+
+OBJECTIVES
+The main goals of the LIFECO2PES&PEF project are to:
+
+Analyse the ecosystem services of three forest areas located in the Alpine and Tosco-Emiliano Apennines regions in Italy;
+Create a system for certification of credits linked to forest ecosystem services;
+Evaluate the entire lifecycle of the wood industry, in accordance with the Product Environmental Footprint (PEF) methodology, to minimise the industrys environmental impacts; and
+Support policymakers in improving forest management through the Rural Development Funds, as well as to promote the use of wood for energy use.
+In this way, the project will contribute to the implementation of the following EU policies: Forest Strategy: for forests and the forest-based sector (COM(2013) 659 final); Adaptation Strategy, by increasing the resilience of forests to climate change; LULUCF Regulation (2018/841/EU); Commission Recommendation 2013/179/EU; and the Habitats Directive (1992/43/EEC).
+
+
+RESULTS
+Expected results:
+
+The improvement of CO2 absorption through the development of ecosystem services: the goal is an average value of 1.5-2 CO2 ton per hectare in each of the three selected areas;
+The improvement of the risk assessment of hydrogeological damages, water management and fire risk prevention in the three areas;
+A toolkit for companies in the wood sector to help them calculate their ecological footprint and prepare operational plans to reduce their impacts;
+A certification standard for the ecosystem services provided by forests;
+A credit trading platform for ecosystem credits;
+Procedures to include ecosystem credits in the Green Bonds system;
+Guidelines for policy stakeholders of the involved regions to support the use of wood for energy purposes, according to an energy cascade methodology;
+Annual reduction of emissions of the wood supply chains by at least 0.42 kg (namely 2%) per cubic metre of wood production; and
+Increased jobs related to forest activities, certifications, as well as credits management and financial activities linked to Green Bonds and green tourism.
+
+Project 16: PROJECT DESCRIPTION
+BACKGROUND
+The Portuguese wolf sub-population in the south of the Douro river is fragmented and isolated from the rest of the Iberian wolf population due to geographic, ecological and social barriers. The last census in Portugal found nine wolf packs in the area, representing approximately 14% of the wolf population. Unfavourable ecological and socio-economic conditions threaten the stability of these packs, affecting their breeding success and survival, and so act as barriers to connectivity between packs. It is vital therefore to minimise these barriers to guarantee the long-term viability of this sub-population and the species' favourable conservation status, as required under the Habitats Directive (92/43/CEE).
+
+Conflicts with animal husbandry, negative attitudes, poaching, a lack of wild prey and habitat loss are some of the main threats to wolf conservation in Portugal. They have been defined as key areas of action in the Portuguese national action plan for wolf conservation.
+
+
+OBJECTIVES
+LIFE WolFlux's overarching goal is to promote the ecological and socio-economic conditions needed to support a viable wolf population in the south of the Douro river. A series of actions will be taken to help reduce the main threats to this carnivore. By improving genetic flux (connectivity between populations) among wolf packs, it aims to increase the connectivity of Natura 2000 sites.
+
+The project will contribute towards improving the conservation status of the wolf, a priority species in the Habitats Directive. By doing so it will help to deliver on three of the six targets of the EU 2020 biodiversity strategy, namely: implementation of EU nature legislation to protect biodiversity; better protection for ecosystems; and larger EU contribution to averting global biodiversity loss.
+
+Specific objectives:
+
+Reduce conflicts with animal husbandry;
+Diminish poaching and human-caused fires, in particular reduce the impact of fire at rendezvous sites (above-ground areas where pups are taken when old enough to leave the birth den) and breeding sites;
+Increase knowledge about roe deer in the project area and improve the availability of wild prey for the wolf;
+Develop a strategy to promote wolf-related value-added products (agri-food production, tourism, etc) and enhance their market penetration;
+Increase tolerance of and positive attitudes towards wolves.
+Expected results:
+
+Increased connectivity of wolf packs in the south of the Douro river compared with baseline data (2019), with the recapture of individual genotypes in different packs and the capture of new individuals;
+10% expansion in wolf range within the project area, 20% increase in detection of breeding success and a rise in the minimum population size compared with baseline data (2019). Regular use by wolves of rendezvous sites managed by the project;
+Creation of a management plan for wolf prey species in the south of the Douro River, and reliable data obtained about roe deer abundance in the wolf range (currently unknown);
+20% increase in positive or neutral attitudes towards wolves in the project area compared with baseline data (2019);
+Main socio-ecological barriers preventing wolf connectivity in the south of the Douro river identified and mapped as a baseline for future studies;
+50% reduction in wolf-related livestock depredation events in areas defined as hot spots for wolf attacks in 2019;
+A mobile surveillance team to protect wolf rendezvous sites and areas where roe deer has been restocked or its habitat managed from fire, poisoning and poaching;
+A network of wildlife ambassadors engaged with wolf conservation to disseminate information about the species in local villages and warn about conflict situations or illegal behaviour;
+Increased frequency of roe deer in the wolf diet in release areas of the prey species and areas where habitat restoration measures will be deployed, in comparison with baseline data (2019);
+Agreements signed with land owners and hunting associations to restore roe deer habitat and increase its abundance, and a population boost of at least 100 roe deer in the project area;
+Accreditation for products that support wolf conservation at local and national scale;
+Best practice manual, a guidebook for wolf tourism, a mobile application and website for marketing nature-based activities developed to support the local economy;
+
+Project 17: PROJECT DESCRIPTION
+BACKGROUND
+Wildcats in Scotland (Scottish wildcats) are a critically endangered sub-population of the European wildcat (Felis silvestris silvestris) and are the last remaining wild felid species in the UK. The European wildcat is listed in Annex IV of the EU Habitats Directive, and the UK conservation status is assessed as bad/declining (Article 17 Report) with a current population estimate for wildcats in Scotland of only 200 animals. The greatest threat to wildcats is from domestic cats (Felis catus) which create problems through hybridisation, competition for territory and resources, disease transfer, and accidental killing of wildcats during invasive species control. In reality the wildcat population is likely to be non-viable and will not recover with in-situ conservation action alone, requiring reinforcement to ensure long term recovery.
+
+
+OBJECTIVES
+The aim of the SWAforLIFE project is to re-establish a genetically and demographically viable wildcat population in the Scottish Highlands, through threat mitigation and population reinforcement, to reverse the population decline of Scottish wildcats.
+
+The project has the following specific objectives:
+
+to remove threats to wildcats from a release site within the Scottish Highlands;
+to increase the population of wildcats at the release site through augmentation;
+to establish a source population of wildcats suitable for release; and
+to support the reduction of risk to wildcats across the rest of the Scottish Highlands by developing a framework for the long-term sustainability and socioeconomic benefits of wildcat conservation and the SWAforLIFE project results within Scotland and Europe.
+ 
+
+SWAforLIFE will support further management of the Natura 2000 network via restoration of an apex-predator species, whose survival is linked to the favourable condition of priority Habitats Directive habitats, including Caledonian forest, Juniperus communis formations on heaths or calcareous grasslands and Dry heaths.
+
+By measurably increasing the wildcat population and controlling invasive alien species (i.e. feral cats), the project will contribute to the implementation of the Habitats Directive, the EU Biodiversity Strategy to 2020, and other related policy.
+
+
+RESULTS
+Expected results:
+
+by 2020, release site in Natura 2000 landscape with carrying capacity of 40-60 wildcats demarcated via written agreement with landowners;
+by 2022, >95% feral cats removed at site via TNVR (Trap Neuter Vaccinate Return);
+by 2025, 95% of cat owners in release site and 1 km buffer zone have neutered/vaccinated/microchipped domestic cats;
+by 2025, 95% of landowners in release site and buffer zone have adopted wildcat stewardship pledge;
+by 2023, 20 cats released from RZSS facility, with intensive post-release monitoring;
+by 2025, 40 further cats released, achieving a 6-month post release survival of over 50%;
+at 5 years beyond project end, population of 60 wildcats remain across Cairngorms, which are connected with a new population of 20 cats established by further translocations (evidenced by camera data);
+by 2022, captive breeding population augmented with >10 founders, a Long-Term Management Plan in place, and integrated management plan with European programme established;
+by 2021, facility suitable for breeding and pre-release training of 60 wildcats established in Cairngorms National Park;
+by 2025, RZSS facility has bred and prepared 60 cats for release;
+by 2022, have captured and genetically sampled >5 potential wildcats with protection plan in place; and
+by 2022, have provided responsible cat ownership advice and data to Scottish Government via project report detailing results of pet owner campaigns.
+
+Project 20: PROJECT DESCRIPTION
+BACKGROUND
+Over the past century, the prevailing Western economic system has created enormous wealth. However, profit maximisation came with social tensions (uneven income distribution), climate change and natural capital risks. Meanwhile, many different approaches to considering economic, social and environmental impacts have been developed, but they have yet to be broadly implemented. Companies are still managed based on accounting principles and concepts codified before the 1970s.
+
+
+OBJECTIVES
+The TRANSPARENT project aims to:
+
+Develop a standard for the evaluation of economic, ecological and social impact (which can be applied at a company, process and product level);
+Standardise how to assess and monetise the value of a company and its (financial and pre-financial) contributions to society (environmental and social impacts and dependencies);
+Understand the interdependencies of value contribution to society and their relation to enterprise value;
+Design a disclosure a format enabling stakeholders to compare the natural, social, human and financial capital performance across companies (integrated profit and loss, and the balance sheet);
+Develop a management blueprint for multi-capital-based business steering, and test its use in management accounting; and
+Spread the ‘impact measurement and valuation’ (IMV) by publishing the results and ensure maintenance of data and further development in respective organisations.
+
+RESULTS
+Expected results: The main outcome will be a standardised system for corporate environmental and social accounting.
+
+This system will lead to:
+
+Reduced transaction costs for (environmental and social) impact assessment of business activities;
+Increased comparability of valuation and impact assessment results across a wide range of sectors and companies;
+Increased use of corporate environmental accounting;
+Improved corporate solutions for managing natural capital and steps towards a circular economy;
+Business decisions based on better information regarding the overall impact; and
+Improved natural capital and recirculation of materials in the long term.
+
+
+************ STARTING STAGE 2 (long MCS) **********
+size of bdgtperproject_matrix 16
+size of npvperproject_matrix 16
+size of mcs_results2 2

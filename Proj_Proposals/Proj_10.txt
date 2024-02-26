@@ -1,0 +1,28 @@
+PROJECT DESCRIPTION
+BACKGROUND
+Desalination is one of the most important unconventional water resource technologies worldwide, especially in water-stressed countries. The most widely used desalination method is Reverse Osmosis (RO), with approximately 65% of the total installed global capacity. Although RO technology is strongly established and optimised, there are still ample research and improvement opportunities, especially in those aspects related to reducing energy consumption. In recent years, the reduction of energy consumption has been significant mainly due to the inclusion of energy recovery devices. Conventional sea water reverse osmosis (SWRO) plants are powered by conventional fossil fuel and, as a result, are heavily dependent on diminishing and costly fossil fuel resources. In addition, the use of the fossil fuels results in greenhouse gas (GHG) emissions, which contributes to one of the main causes of water scarcity: climate change.
+
+
+OBJECTIVES
+The aim of the LIFE HYREWARD project is to assess the technical and economic feasibility of a new and more sustainable desalination process combining Reverse Osmosis (RO) and Reverse Electrodialysis (RED). The integration of the RED process with the conventional RO process enables improved energy efficiency of the desalination process, thanks to the recovery of the electrical energy contained in the sea water reverse osmosis (SWRO) brine before its discharge into the sea. This renewable generation of electrical energy reduces energy consumption and, therefore, greenhouse gas (GHG) emissions. The new hybrid process will be eco-friendly, generating 100% clean energy without negative consequences to the environment, contributing to the EU effort for the reduction of GHG emissions and climate change mitigation.
+
+The specific objectives of the project are:
+
+To demonstrate the technical feasibility of the combination of RO and RED technologies, maximising the electrical energy recovery contained in the RO brine;
+To study the feasibility of improving the global water recovery of the desalination process through the recirculation of the diluted brine to the RO process, reducing the seawater intake and pre-treatment needs, and minimising the intake environmental impact;
+Production of electrical energy through the RED process, reducing the final brine discharge concentration and producing electrical energy for the facility's own consumption;
+The design, construction, optimisation and evaluation of an innovative pilot plant for treating the SWRO brine composed basically by the RED stage. To minimise the cost of the prototype, the pilot plant will be fed directly from the SWRO brine of the desalination plant where the experimental phase will take place;
+To improve the carbon footprint of desalination;
+To conduct an economic study to identify potential barriers for full-scale implementation of the new sustainable process and to analyse the transfer of the project results to other sectors and countries;
+To quantify and disseminate the environmental benefits of the new sustainable desalination technology, raising social awareness of environmental protection and promoting the implementation of desalination systems with reduced climate impact.
+
+RESULTS
+Expected results:
+
+It is estimated that the RED process will allow the recovery of up to 20% of the energy consumed in the RO. The blue energy generated in this process can be considered as a completely renewable and sustainable source of energy that can contribute to climate change mitigation;
+A >40% efficiency of the RED process;
+No or minimal consumption of chemicals in the RED process;
+Recovering of 0.65 kWh/m3 RO product water;
+A primary energy use of less than 18%, which is substantially less than produced by drinking water RO (baseline);
+Showing the potential of at least a 20% decrease in greenhouse gas (CO2) emissions compared to the baseline situation;
+The project will contribute to achieving the targets set out in the EU's 2030 Climate and Energy Framework, and to the transformation towards a climate-neutral economy by 2050.

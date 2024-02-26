@@ -1,0 +1,11 @@
+
+The top-rated portfolio with a strategic score of 92 and an NPV of 19683.02 k€ excels in biodiversity and ecosystem conservation, with projects that manage natural habitats and protect endangered species. It promotes sustainable resource management in the winemaking and dairy industries, directly contributing to climate change mitigation through enhanced forest management. This portfolio supports EU directives and policies, showcases innovative solutions like grape residue utilization and whey protein extraction, and encourages transnational cooperation. It emphasizes stakeholder engagement and governance improvements, socio-economic benefits, and addresses specific environmental issues like waste reduction in the wine industry.
+
+The next portfolio, with a strategic score of 90 and an NPV of 19738.64 k€, maintains a strong alignment with LIFE Programme objectives, particularly in biodiversity and ecosystem management. It integrates environmental objectives into local socio-economic practices and introduces innovative technologies for dairy by-product processing and food waste reduction. However, it lacks the direct climate change mitigation focus provided by forest management in the top-rated portfolio.
+
+With a strategic score of 88 and an NPV of 19748.88 k€, the subsequent portfolio continues to align well with LIFE Programme objectives, addressing environmental and climate challenges, and promoting sustainable agriculture and waste reduction. It introduces innovative solutions like grape residue utilization for winemaking. However, it loses the advantage of the top portfolio's project that directly contributes to climate change mitigation through forest management and carbon sequestration.
+
+The final portfolio, with a strategic score of 85 and an NPV of 19796.66 k€, still demonstrates strong alignment with the LIFE Programme, particularly in biodiversity conservation and resource efficiency. It promotes sustainable economic growth and stakeholder engagement. However, compared to the top-rated portfolio, it lacks the broader geographic coverage and the inclusion of more projects with a direct focus on climate change mitigation and adaptation.
+
+npv_results 1D:  [19796.66 19748.88 19738.64 19685.97 19683.02 19668.81 19635.93 19610.79]
+strategic_score 1D:  [85 88 90 87 92 90 89 88]
