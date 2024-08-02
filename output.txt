@@ -1,356 +1,156 @@
-x_perproj_matrix1:  (array([[ 727.38],
-       [ 818.5 ],
-       [ 918.62],
-       [ 775.15],
-       [1260.63],
-       [1087.38],
-       [ 881.31],
-       [1009.37],
-       [ 786.67],
-       [ 891.52],
-       [1097.25],
-       [ 922.61],
-       [ 970.58],
-       [1430.1 ],
-       [ 442.18],
-       [ 874.2 ],
-       [ 660.36],
-       [ 973.02],
-       [1000.11],
-       [ 987.02]]), array([[1226.62],
-       [1692.5 ],
-       [1776.38],
-       [1883.85],
-       [1557.37],
-       [1728.62],
-       [1677.69],
-       [1757.63],
-       [1198.33],
-       [1178.48],
-       [1748.75],
-       [2073.39],
-       [1505.42],
-       [2667.9 ],
-       [ 470.82],
-       [1400.8 ],
-       [1145.64],
-       [1190.98],
-       [1055.89],
-       [1452.98]]))
-Generation 0: Max NPV = (array([18226.23]), 1.0)
-Generation 1: Max NPV = (array([18741.88]), 1.0)
-Generation 2: Max NPV = (array([18741.88]), 1.0)
-Generation 3: Max NPV = (array([18741.88]), 1.0)
-Generation 4: Max NPV = (array([19108.27]), 0.91)
-Generation 5: Max NPV = (array([19108.27]), 0.91)
-Generation 6: Max NPV = (array([19108.27]), 0.91)
-Generation 7: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 8: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 9: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 10: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 11: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 12: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 13: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 14: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 15: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 16: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 17: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 18: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 19: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 20: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 21: Max NPV = (array([19525.73]), 0.9299999999999999)
-Generation 22: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 23: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 24: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 25: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 26: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 27: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 28: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 29: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 30: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 31: Max NPV = (array([19578.17]), 0.9299999999999999)
-Generation 32: Max NPV = (array([19606.46]), 0.99)
-Generation 33: Max NPV = (array([19606.46]), 0.99)
-Generation 34: Max NPV = (array([19606.46]), 0.99)
-Generation 35: Max NPV = (array([19606.46]), 0.99)
-Generation 36: Max NPV = (array([19626.59]), 0.99)
-Generation 37: Max NPV = (array([19626.59]), 0.99)
-Generation 38: Max NPV = (array([19626.59]), 0.99)
-Generation 39: Max NPV = (array([19626.59]), 0.99)
-Generation 40: Max NPV = (array([19626.59]), 0.99)
-Generation 41: Max NPV = (array([19626.59]), 0.99)
-Generation 42: Max NPV = (array([19626.59]), 0.99)
-Generation 43: Max NPV = (array([19626.59]), 0.99)
-Generation 44: Max NPV = (array([19626.59]), 0.99)
-Generation 45: Max NPV = (array([19626.59]), 0.99)
-Generation 46: Max NPV = (array([19626.59]), 0.99)
-Generation 47: Max NPV = (array([19626.59]), 0.99)
-Generation 48: Max NPV = (array([19626.59]), 0.99)
-Generation 49: Max NPV = (array([19626.59]), 0.99)
-Generation 50: Max NPV = (array([19626.59]), 0.99)
-Generation 51: Max NPV = (array([19626.59]), 0.99)
-Generation 52: Max NPV = (array([19626.59]), 0.99)
-Generation 53: Max NPV = (array([19626.59]), 0.99)
-Generation 54: Max NPV = (array([19626.59]), 0.99)
-Generation 55: Max NPV = (array([19626.59]), 0.99)
-Generation 56: Max NPV = (array([19626.59]), 0.99)
-Generation 57: Max NPV = (array([19626.59]), 0.99)
-Generation 58: Max NPV = (array([19626.59]), 0.99)
-Generation 59: Max NPV = (array([19626.59]), 0.99)
-Generation 60: Max NPV = (array([19626.59]), 0.99)
-Generation 61: Max NPV = (array([19626.59]), 0.99)
-Generation 62: Max NPV = (array([19626.59]), 0.99)
-Generation 63: Max NPV = (array([19626.59]), 0.99)
-Generation 64: Max NPV = (array([19626.59]), 0.99)
-Generation 65: Max NPV = (array([19626.59]), 0.99)
-Generation 66: Max NPV = (array([19626.59]), 0.99)
-Generation 67: Max NPV = (array([19626.59]), 0.99)
-Generation 68: Max NPV = (array([19626.59]), 0.99)
-Generation 69: Max NPV = (array([19626.59]), 0.99)
-Generation 70: Max NPV = (array([19626.59]), 0.99)
-Generation 71: Max NPV = (array([19626.59]), 0.99)
-Generation 72: Max NPV = (array([19626.59]), 0.99)
-Generation 73: Max NPV = (array([19626.59]), 0.99)
-Generation 74: Max NPV = (array([19626.59]), 0.99)
-Generation 75: Max NPV = (array([19626.59]), 0.99)
-Generation 76: Max NPV = (array([19626.59]), 0.99)
-Generation 77: Max NPV = (array([19626.59]), 0.99)
-Generation 78: Max NPV = (array([19626.59]), 0.99)
-Generation 79: Max NPV = (array([19626.59]), 0.99)
-Generation 80: Max NPV = (array([19626.59]), 0.99)
-Generation 81: Max NPV = (array([19626.59]), 0.99)
-Generation 82: Max NPV = (array([19626.59]), 0.99)
-Generation 83: Max NPV = (array([19626.59]), 0.99)
-Generation 84: Max NPV = (array([19626.59]), 0.99)
-Generation 85: Max NPV = (array([19626.59]), 0.99)
-Generation 86: Max NPV = (array([19626.59]), 0.99)
-Generation 87: Max NPV = (array([19626.59]), 0.99)
-Generation 88: Max NPV = (array([19626.59]), 0.99)
-Generation 89: Max NPV = (array([19626.59]), 0.99)
-Generation 90: Max NPV = (array([19626.59]), 0.99)
-Generation 91: Max NPV = (array([19626.59]), 0.99)
-Generation 92: Max NPV = (array([19626.59]), 0.99)
-Generation 93: Max NPV = (array([19626.59]), 0.99)
-Generation 94: Max NPV = (array([19626.59]), 0.99)
-Generation 95: Max NPV = (array([19626.59]), 0.99)
-Generation 96: Max NPV = (array([19626.59]), 0.99)
-Generation 97: Max NPV = (array([19626.59]), 0.99)
-Generation 98: Max NPV = (array([19626.59]), 0.99)
-Generation 99: Max NPV = (array([19626.59]), 0.99)
-Generation 100: Max NPV = (array([19626.59]), 0.99)
-Generation 101: Max NPV = (array([19626.59]), 0.99)
-Generation 102: Max NPV = (array([19626.59]), 0.99)
-Generation 103: Max NPV = (array([19626.59]), 0.99)
-Generation 104: Max NPV = (array([19626.59]), 0.99)
-Generation 105: Max NPV = (array([19626.59]), 0.99)
-Generation 106: Max NPV = (array([19626.59]), 0.99)
-Generation 107: Max NPV = (array([19626.59]), 0.99)
-Generation 108: Max NPV = (array([19626.59]), 0.99)
-Generation 109: Max NPV = (array([19626.59]), 0.99)
-Generation 110: Max NPV = (array([19626.59]), 0.99)
-Generation 111: Max NPV = (array([19626.59]), 0.99)
-Generation 112: Max NPV = (array([19626.59]), 0.99)
-Generation 113: Max NPV = (array([19626.59]), 0.99)
-Generation 114: Max NPV = (array([19626.59]), 0.99)
-Generation 115: Max NPV = (array([19626.59]), 0.99)
-Generation 116: Max NPV = (array([19626.59]), 0.99)
-Generation 117: Max NPV = (array([19626.59]), 0.99)
-Generation 118: Max NPV = (array([19626.59]), 0.99)
-Generation 119: Max NPV = (array([19626.59]), 0.99)
-Generation 120: Max NPV = (array([19626.59]), 0.99)
-Generation 121: Max NPV = (array([19626.59]), 0.99)
-Generation 122: Max NPV = (array([19626.59]), 0.99)
-Generation 123: Max NPV = (array([19626.59]), 0.99)
-Generation 124: Max NPV = (array([19626.59]), 0.99)
-Generation 125: Max NPV = (array([19626.59]), 0.99)
-Generation 126: Max NPV = (array([19626.59]), 0.99)
-Generation 127: Max NPV = (array([19626.59]), 0.99)
-Generation 128: Max NPV = (array([19626.59]), 0.99)
-Generation 129: Max NPV = (array([19626.59]), 0.99)
-Generation 130: Max NPV = (array([19626.59]), 0.99)
-Generation 131: Max NPV = (array([19626.59]), 0.99)
-Generation 132: Max NPV = (array([19626.59]), 0.99)
-Generation 133: Max NPV = (array([19626.59]), 0.99)
-Generation 134: Max NPV = (array([19626.59]), 0.99)
-Generation 135: Max NPV = (array([19626.59]), 0.99)
-Generation 136: Max NPV = (array([19626.59]), 0.99)
-Generation 137: Max NPV = (array([19626.59]), 0.99)
-Generation 138: Max NPV = (array([19626.59]), 0.99)
-Generation 139: Max NPV = (array([19626.59]), 0.99)
-Generation 140: Max NPV = (array([19626.59]), 0.99)
-Generation 141: Max NPV = (array([19626.59]), 0.99)
-Generation 142: Max NPV = (array([19626.59]), 0.99)
-Generation 143: Max NPV = (array([19626.59]), 0.99)
-Generation 144: Max NPV = (array([19626.59]), 0.99)
-Generation 145: Max NPV = (array([19626.59]), 0.99)
-Generation 146: Max NPV = (array([19626.59]), 0.99)
-Generation 147: Max NPV = (array([19626.59]), 0.99)
-Generation 148: Max NPV = (array([19626.59]), 0.99)
-Generation 149: Max NPV = (array([19626.59]), 0.99)
-Generation 150: Max NPV = (array([19738.75]), 0.99)
-Generation 151: Max NPV = (array([19738.75]), 0.99)
-Generation 152: Max NPV = (array([19738.75]), 0.99)
-Generation 153: Max NPV = (array([19738.75]), 0.99)
-Generation 154: Max NPV = (array([19738.75]), 0.99)
-Generation 155: Max NPV = (array([19738.75]), 0.99)
-Generation 156: Max NPV = (array([19738.75]), 0.99)
-Generation 157: Max NPV = (array([19738.75]), 0.99)
-Generation 158: Max NPV = (array([19738.75]), 0.99)
-Generation 159: Max NPV = (array([19738.75]), 0.99)
-Generation 160: Max NPV = (array([19738.75]), 0.99)
-Generation 161: Max NPV = (array([19738.75]), 0.99)
-Generation 162: Max NPV = (array([19738.75]), 0.99)
-Generation 163: Max NPV = (array([19738.75]), 0.99)
-Generation 164: Max NPV = (array([19738.75]), 0.99)
-Generation 165: Max NPV = (array([19738.75]), 0.99)
-Generation 166: Max NPV = (array([19738.75]), 0.99)
-Generation 167: Max NPV = (array([19738.75]), 0.99)
-Generation 168: Max NPV = (array([19738.75]), 0.99)
-Generation 169: Max NPV = (array([19738.75]), 0.99)
-Generation 170: Max NPV = (array([19738.75]), 0.99)
-Generation 171: Max NPV = (array([19738.75]), 0.99)
-Generation 172: Max NPV = (array([19738.75]), 0.99)
-Generation 173: Max NPV = (array([19738.75]), 0.99)
-Generation 174: Max NPV = (array([19738.75]), 0.99)
-Generation 175: Max NPV = (array([19738.75]), 0.99)
-Generation 176: Max NPV = (array([19738.75]), 0.99)
-Generation 177: Max NPV = (array([19738.75]), 0.99)
-Generation 178: Max NPV = (array([19738.75]), 0.99)
-Generation 179: Max NPV = (array([19738.75]), 0.99)
-Generation 180: Max NPV = (array([19738.75]), 0.99)
-Generation 181: Max NPV = (array([19738.75]), 0.99)
-Generation 182: Max NPV = (array([19738.75]), 0.99)
-Generation 183: Max NPV = (array([19738.75]), 0.99)
-Generation 184: Max NPV = (array([19738.75]), 0.99)
-Generation 185: Max NPV = (array([19738.75]), 0.99)
-Generation 186: Max NPV = (array([19738.75]), 0.99)
-Generation 187: Max NPV = (array([19738.75]), 0.99)
-Generation 188: Max NPV = (array([19738.75]), 0.99)
-Generation 189: Max NPV = (array([19738.75]), 0.99)
-Generation 190: Max NPV = (array([19738.75]), 0.99)
-Generation 191: Max NPV = (array([19738.75]), 0.99)
-Generation 192: Max NPV = (array([19738.75]), 0.99)
-Generation 193: Max NPV = (array([19738.75]), 0.99)
-Generation 194: Max NPV = (array([19738.75]), 0.99)
-Generation 195: Max NPV = (array([19738.75]), 0.99)
-Generation 196: Max NPV = (array([19738.75]), 0.99)
-Generation 197: Max NPV = (array([19738.75]), 0.99)
-Generation 198: Max NPV = (array([19738.75]), 0.99)
-Generation 199: Max NPV = (array([19738.75]), 0.99)
-Generation 200: Max NPV = (array([19738.75]), 0.99)
-Generation 201: Max NPV = (array([19738.75]), 0.99)
-Generation 202: Max NPV = (array([19738.75]), 0.99)
-Generation 203: Max NPV = (array([19738.75]), 0.99)
-Generation 204: Max NPV = (array([19738.75]), 0.99)
-Generation 205: Max NPV = (array([19738.75]), 0.99)
-Generation 206: Max NPV = (array([19738.75]), 0.99)
-Generation 207: Max NPV = (array([19738.75]), 0.99)
-Generation 208: Max NPV = (array([19738.75]), 0.99)
-Generation 209: Max NPV = (array([19738.75]), 0.99)
-Generation 210: Max NPV = (array([19738.75]), 0.99)
-Generation 211: Max NPV = (array([19738.75]), 0.99)
-Generation 212: Max NPV = (array([19738.75]), 0.99)
-Generation 213: Max NPV = (array([19738.75]), 0.99)
-Generation 214: Max NPV = (array([19738.75]), 0.99)
-Generation 215: Max NPV = (array([19738.75]), 0.99)
-Generation 216: Max NPV = (array([19738.75]), 0.99)
-Generation 217: Max NPV = (array([19738.75]), 0.99)
-Generation 218: Max NPV = (array([19738.75]), 0.99)
-Generation 219: Max NPV = (array([19738.75]), 0.99)
-Generation 220: Max NPV = (array([19738.75]), 0.99)
-Generation 221: Max NPV = (array([19738.75]), 0.99)
-Generation 222: Max NPV = (array([19738.75]), 0.99)
-Generation 223: Max NPV = (array([19738.75]), 0.99)
-Generation 224: Max NPV = (array([19738.75]), 0.99)
-Generation 225: Max NPV = (array([19738.75]), 0.99)
-Generation 226: Max NPV = (array([19738.75]), 0.99)
-Generation 227: Max NPV = (array([19738.75]), 0.99)
-Generation 228: Max NPV = (array([19738.75]), 0.99)
-Generation 229: Max NPV = (array([19738.75]), 0.99)
-Generation 230: Max NPV = (array([19738.75]), 0.99)
-Generation 231: Max NPV = (array([19738.75]), 0.99)
-Generation 232: Max NPV = (array([19738.75]), 0.99)
-Generation 233: Max NPV = (array([19738.75]), 0.99)
-Generation 234: Max NPV = (array([19738.75]), 0.99)
-Generation 235: Max NPV = (array([19738.75]), 0.99)
-Generation 236: Max NPV = (array([19738.75]), 0.99)
-Generation 237: Max NPV = (array([19738.75]), 0.99)
-Generation 238: Max NPV = (array([19738.75]), 0.99)
-Generation 239: Max NPV = (array([19738.75]), 0.99)
-Generation 240: Max NPV = (array([19738.75]), 0.99)
-Generation 241: Max NPV = (array([19738.75]), 0.99)
-Generation 242: Max NPV = (array([19738.75]), 0.99)
-Generation 243: Max NPV = (array([19738.75]), 0.99)
-Generation 244: Max NPV = (array([19738.75]), 0.99)
-Generation 245: Max NPV = (array([19738.75]), 0.99)
-Generation 246: Max NPV = (array([19738.75]), 0.99)
-Generation 247: Max NPV = (array([19738.75]), 0.99)
-Generation 248: Max NPV = (array([19738.75]), 0.99)
-Generation 249: Max NPV = (array([19738.75]), 0.99)
-Generation 250: Max NPV = (array([19738.75]), 0.99)
-Generation 251: Max NPV = (array([19738.75]), 0.99)
-Generation 252: Max NPV = (array([19738.75]), 0.99)
-Generation 253: Max NPV = (array([19738.75]), 0.99)
-Generation 254: Max NPV = (array([19738.75]), 0.99)
-Generation 255: Max NPV = (array([19738.75]), 0.99)
-Generation 256: Max NPV = (array([19738.75]), 0.99)
-Generation 257: Max NPV = (array([19738.75]), 0.99)
-Generation 258: Max NPV = (array([19738.75]), 0.99)
-Generation 259: Max NPV = (array([19738.75]), 0.99)
-Generation 260: Max NPV = (array([19738.75]), 0.99)
-Generation 261: Max NPV = (array([19738.75]), 0.99)
-Generation 262: Max NPV = (array([19738.75]), 0.99)
-Generation 263: Max NPV = (array([19738.75]), 0.99)
-Generation 264: Max NPV = (array([19738.75]), 0.99)
-Generation 265: Max NPV = (array([19738.75]), 0.99)
-Generation 266: Max NPV = (array([19738.75]), 0.99)
-Generation 267: Max NPV = (array([19738.75]), 0.99)
-Generation 268: Max NPV = (array([19738.75]), 0.99)
-Generation 269: Max NPV = (array([19738.75]), 0.99)
-Generation 270: Max NPV = (array([19738.75]), 0.99)
-Generation 271: Max NPV = (array([19738.75]), 0.99)
-Generation 272: Max NPV = (array([19738.75]), 0.99)
-Generation 273: Max NPV = (array([19738.75]), 0.99)
-Generation 274: Max NPV = (array([19738.75]), 0.99)
-Generation 275: Max NPV = (array([19738.75]), 0.99)
-Generation 276: Max NPV = (array([19738.75]), 0.99)
-Generation 277: Max NPV = (array([19738.75]), 0.99)
-Generation 278: Max NPV = (array([19738.75]), 0.99)
-Generation 279: Max NPV = (array([19738.75]), 0.99)
-Generation 280: Max NPV = (array([19738.75]), 0.99)
-Generation 281: Max NPV = (array([19738.75]), 0.99)
-Generation 282: Max NPV = (array([19738.75]), 0.99)
-Generation 283: Max NPV = (array([19738.75]), 0.99)
-Generation 284: Max NPV = (array([19738.75]), 0.99)
-Generation 285: Max NPV = (array([19738.75]), 0.99)
-Generation 286: Max NPV = (array([19738.75]), 0.99)
-Generation 287: Max NPV = (array([19738.75]), 0.99)
-Generation 288: Max NPV = (array([19738.75]), 0.99)
-Generation 289: Max NPV = (array([19738.75]), 0.99)
-Generation 290: Max NPV = (array([19738.75]), 0.99)
-Generation 291: Max NPV = (array([19738.75]), 0.99)
-Generation 292: Max NPV = (array([19738.75]), 0.99)
-Generation 293: Max NPV = (array([19738.75]), 0.99)
-Generation 294: Max NPV = (array([19738.75]), 0.99)
-Generation 295: Max NPV = (array([19738.75]), 0.99)
-Generation 296: Max NPV = (array([19738.75]), 0.99)
-Generation 297: Max NPV = (array([19738.75]), 0.99)
-Generation 298: Max NPV = (array([19738.75]), 0.99)
-Generation 299: Max NPV = (array([19738.75]), 0.99)
+x_perproj_matrix1:  (array([[ 727.28],
+       [ 821.62],
+       [ 921.23],
+       [ 778.46],
+       [1258.91],
+       [1084.63],
+       [ 881.09],
+       [1015.08],
+       [ 787.3 ],
+       [ 897.48],
+       [1097.98],
+       [ 923.78],
+       [ 974.63],
+       [1430.68],
+       [ 443.5 ],
+       [ 877.35],
+       [ 662.12],
+       [ 971.92],
+       [ 997.47],
+       [ 984.9 ]]), array([[1232.72],
+       [1684.38],
+       [1789.77],
+       [1890.54],
+       [1548.09],
+       [1715.37],
+       [1697.91],
+       [1744.92],
+       [1197.7 ],
+       [1178.52],
+       [1757.02],
+       [2099.22],
+       [1500.37],
+       [2654.32],
+       [ 470.5 ],
+       [1395.65],
+       [1132.88],
+       [1186.08],
+       [1051.53],
+       [1475.1 ]]))
+Generation 0: Max NPV = (array([16710.32]), 0.99)
+Generation 1: Max NPV = (array([17803.78]), 0.9)
+Generation 2: Max NPV = (array([17803.78]), 0.9)
+Generation 3: Max NPV = (array([17743.15]), 1.0)
+Generation 4: Max NPV = (array([17743.15]), 1.0)
+Generation 5: Max NPV = (array([17743.15]), 1.0)
+Generation 6: Max NPV = (array([17817.34]), 0.99)
+Generation 7: Max NPV = (array([17743.15]), 1.0)
+Generation 8: Max NPV = (array([17743.15]), 1.0)
+Generation 9: Max NPV = (array([17743.15]), 1.0)
+Generation 10: Max NPV = (array([17743.15]), 1.0)
+Generation 11: Max NPV = (array([17743.15]), 1.0)
+Generation 12: Max NPV = (array([17743.15]), 1.0)
+Generation 13: Max NPV = (array([17743.15]), 1.0)
+Generation 14: Max NPV = (array([17743.15]), 1.0)
+Generation 15: Max NPV = (array([17743.15]), 1.0)
+Generation 16: Max NPV = (array([17743.15]), 1.0)
+Generation 17: Max NPV = (array([17743.15]), 1.0)
+Generation 18: Max NPV = (array([17743.15]), 1.0)
+Generation 19: Max NPV = (array([17756.68]), 0.99)
+Generation 20: Max NPV = (array([17756.68]), 0.99)
+Generation 21: Max NPV = (array([17756.68]), 0.99)
+Generation 22: Max NPV = (array([17756.68]), 0.99)
+Generation 23: Max NPV = (array([18078.53]), 0.96)
+Generation 24: Max NPV = (array([18243.36]), 0.99)
+Generation 25: Max NPV = (array([18243.36]), 0.99)
+Generation 26: Max NPV = (array([18243.36]), 0.99)
+Generation 27: Max NPV = (array([18243.36]), 0.99)
+Generation 28: Max NPV = (array([18243.36]), 0.99)
+Generation 29: Max NPV = (array([18243.36]), 0.99)
+Generation 30: Max NPV = (array([18243.36]), 0.99)
+Generation 31: Max NPV = (array([18243.36]), 0.99)
+Generation 32: Max NPV = (array([18297.16]), 1.0)
+Generation 33: Max NPV = (array([18297.16]), 1.0)
+Generation 34: Max NPV = (array([18243.36]), 0.99)
+Generation 35: Max NPV = (array([18243.36]), 0.99)
+Generation 36: Max NPV = (array([18243.36]), 0.99)
+Generation 37: Max NPV = (array([18627.21]), 1.0)
+Generation 38: Max NPV = (array([18627.21]), 1.0)
+Generation 39: Max NPV = (array([18627.21]), 1.0)
+Generation 40: Max NPV = (array([18634.77]), 1.0)
+Generation 41: Max NPV = (array([18634.77]), 1.0)
+Generation 42: Max NPV = (array([18634.77]), 1.0)
+Generation 43: Max NPV = (array([18634.77]), 1.0)
+Generation 44: Max NPV = (array([18634.77]), 1.0)
+Generation 45: Max NPV = (array([18634.77]), 1.0)
+Generation 46: Max NPV = (array([18634.77]), 1.0)
+Generation 47: Max NPV = (array([18634.77]), 1.0)
+Generation 48: Max NPV = (array([18634.77]), 1.0)
+Generation 49: Max NPV = (array([18634.77]), 1.0)
+Generation 50: Max NPV = (array([18634.77]), 1.0)
+Generation 51: Max NPV = (array([18923.79]), 1.0)
+Generation 52: Max NPV = (array([18923.79]), 1.0)
+Generation 53: Max NPV = (array([18923.79]), 1.0)
+Generation 54: Max NPV = (array([19086.72]), 0.92)
+Generation 55: Max NPV = (array([18923.79]), 1.0)
+Generation 56: Max NPV = (array([18923.79]), 1.0)
+Generation 57: Max NPV = (array([18923.79]), 1.0)
+Generation 58: Max NPV = (array([18923.79]), 1.0)
+Generation 59: Max NPV = (array([18923.79]), 1.0)
+Generation 60: Max NPV = (array([18949.06]), 1.0)
+Generation 61: Max NPV = (array([18923.79]), 1.0)
+Generation 62: Max NPV = (array([18923.79]), 1.0)
+Generation 63: Max NPV = (array([19050.78]), 1.0)
+Generation 64: Max NPV = (array([19372.63]), 1.0)
+Generation 65: Max NPV = (array([19372.63]), 1.0)
+Generation 66: Max NPV = (array([19372.63]), 1.0)
+Generation 67: Max NPV = (array([19372.63]), 1.0)
+Generation 68: Max NPV = (array([19372.63]), 1.0)
+Generation 69: Max NPV = (array([19372.63]), 1.0)
+Generation 70: Max NPV = (array([19372.63]), 1.0)
+Generation 71: Max NPV = (array([19372.63]), 1.0)
+Generation 72: Max NPV = (array([19372.63]), 1.0)
+Generation 73: Max NPV = (array([19372.63]), 1.0)
+Generation 74: Max NPV = (array([19372.63]), 1.0)
+Generation 75: Max NPV = (array([19372.63]), 1.0)
+Generation 76: Max NPV = (array([19372.63]), 1.0)
+Generation 77: Max NPV = (array([19372.63]), 1.0)
+Generation 78: Max NPV = (array([19612.9]), 0.99)
+Generation 79: Max NPV = (array([19612.9]), 0.99)
+Generation 80: Max NPV = (array([19654.55]), 0.99)
+Generation 81: Max NPV = (array([19654.55]), 0.99)
+Generation 82: Max NPV = (array([19654.55]), 0.99)
+Generation 83: Max NPV = (array([19654.55]), 0.99)
+Generation 84: Max NPV = (array([19654.55]), 0.99)
+Generation 85: Max NPV = (array([19654.55]), 0.99)
+Generation 86: Max NPV = (array([19654.55]), 0.99)
+Generation 87: Max NPV = (array([19654.55]), 0.99)
+Generation 88: Max NPV = (array([19654.55]), 0.99)
+Generation 89: Max NPV = (array([19654.55]), 0.99)
+Generation 90: Max NPV = (array([19654.55]), 0.99)
+Generation 91: Max NPV = (array([19654.55]), 0.99)
+Generation 92: Max NPV = (array([19654.55]), 0.99)
+Generation 93: Max NPV = (array([19654.55]), 0.99)
+Generation 94: Max NPV = (array([19654.55]), 0.99)
+Generation 95: Max NPV = (array([19654.55]), 0.99)
+Generation 96: Max NPV = (array([19654.55]), 0.99)
+Generation 97: Max NPV = (array([19654.55]), 0.99)
+Generation 98: Max NPV = (array([19654.55]), 0.99)
+Generation 99: Max NPV = (array([19654.55]), 0.99)
 Hall of Fame:
-[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0] [19738.75] 0.99 [10638.25]
-[0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0] [19710.46] 0.95 [10697.54]
-[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1] [19686.31] 0.99 [10654.69]
-[0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0] [19657.77] 1.0 [10571.23]
-[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0] [19634.13] 1.0 [10541.87]
-[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19626.59] 0.99 [10653.41]
-[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19606.46] 0.99 [10643.54]
-[0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19598.3] 0.9299999999999999 [10712.7]
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19654.55] 0.99 [10677.45]
+[0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19619.53] 0.92 [10737.47]
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0] [19612.9] 0.99 [10664.1]
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0] [19508.18] 1.0 [10566.82]
+[1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1] [19384.73] 0.99 [10647.27]
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1] [19372.63] 1.0 [10564.37]
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0] [19293.18] 1.0 [10456.82]
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0] [19184.05] 1.0 [10233.95]
 ************ SUMMARY STAGE 1 **********
-npv_results:  [[19738.75], [19710.46], [19686.31], [19657.769999999997], [19634.13], [19626.59], [19606.46], [19598.3]]
-portfolio_results:  [[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0], [0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1], [0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0], [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0]]
-portfolio_confidence_levels:  [[0.99], [0.95], [0.99], [1.0], [1.0], [0.99], [0.99], [0.9299999999999999]]
-budgets:  [[10638.25], [10697.54], [10654.69], [10571.230000000001], [10541.87], [10653.41], [10643.54], [10712.7]]
+npv_results:  [[19654.55], [19619.530000000002], [19612.9], [19508.180000000004], [19384.73], [19372.629999999997], [19293.18], [19184.05]]
+portfolio_results:  [[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0], [1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1], [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1], [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0], [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0]]
+portfolio_confidence_levels:  [[0.99], [0.92], [0.99], [1.0], [0.99], [1.0], [1.0], [1.0]]
+budgets:  [[10677.45], [10737.470000000001], [10664.1], [10566.820000000002], [10647.27], [10564.37], [10456.820000000002], [10233.95]]
 portfolio_projection:  [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1]
 Indexes of selected projects:  [0, 1, 2, 3, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 19]
 Number of candidate projects for stage 2:  16
@@ -727,3 +527,98 @@ Improved natural capital and recirculation of materials in the long term.
 size of bdgtperproject_matrix 16
 size of npvperproject_matrix 16
 size of mcs_results2 2
+Preparing for correlatedMCS to calculate df20r
+df20r:              P01         P02         P03         P04          P05         P06          P07         P08          P09         P10         P11          P12         P13         P14         P15         P16
+0    733.183003  816.327054  914.440860  790.388937  1088.974309  855.210517  1032.124883  803.642050  1099.488895  930.020969  963.348055  1408.529600  448.957385  888.152821  658.184453  994.290581
+1    707.127453  808.138199  859.562922  741.710992  1057.831324  874.931635  1007.843770  730.174294  1091.309609  907.140232  970.862710  1421.690433  426.880129  859.427906  649.307295  971.265098
+2    730.693197  830.593586  919.118120  766.754244  1067.380616  892.808811   994.409436  759.255247  1086.663298  907.438263  968.348947  1431.733626  451.746478  864.391154  654.271214  985.623830
+3    724.226497  822.194311  909.556524  791.261260  1084.634697  858.362737  1023.668646  793.927933  1085.309773  927.267396  954.877855  1429.602426  442.829979  886.143070  670.900523  983.430634
+4    716.209885  821.961913  919.029185  780.212359  1069.991966  864.003098  1010.547052  781.726745  1102.832687  915.295364  977.819730  1431.513541  437.210313  881.698475  656.275101  980.357989
+..          ...         ...         ...         ...          ...         ...          ...         ...          ...         ...         ...          ...         ...         ...         ...         ...
+495  708.244181  824.902853  902.318339  776.382330  1076.783821  894.344887  1007.231913  781.400406  1097.608424  915.404795  976.336632  1446.722433  431.912521  885.007223  651.858813  984.804473
+496  733.064072  822.642896  911.967948  766.140992  1071.065694  872.244515   994.371066  756.983197  1091.990793  909.619966  960.359662  1439.524028  444.592961  872.832017  658.214798  989.881399
+497  710.633479  811.281288  903.225201  791.175981  1080.466147  875.815759  1003.797133  763.129183  1086.928751  924.965258  956.072080  1420.699796  432.622614  881.073109  656.527138  983.743545
+498  718.927305  803.758938  932.774620  748.723104  1084.563259  869.695943   972.089113  770.288491  1102.897048  940.035117  976.494570  1423.008365  428.577326  863.296187  670.080604  982.747339
+499  724.441994  814.995252  889.802047  775.837646  1099.350476  879.816309  1024.746034  788.991649  1097.650278  910.831826  964.397016  1425.355034  444.609578  873.521848  654.875633  973.313772
+
+[500 rows x 16 columns]
+widened_df20r:              P01         P02         P03         P04  P05          P06         P07          P08         P09  ...         P12         P13          P14         P15         P16         P17  P18  P19         P20
+0    733.183003  816.327054  914.440860  790.388937  0.0  1088.974309  855.210517  1032.124883  803.642050  ...  930.020969  963.348055  1408.529600  448.957385  888.152821  658.184453  0.0  0.0  994.290581
+1    707.127453  808.138199  859.562922  741.710992  0.0  1057.831324  874.931635  1007.843770  730.174294  ...  907.140232  970.862710  1421.690433  426.880129  859.427906  649.307295  0.0  0.0  971.265098
+2    730.693197  830.593586  919.118120  766.754244  0.0  1067.380616  892.808811   994.409436  759.255247  ...  907.438263  968.348947  1431.733626  451.746478  864.391154  654.271214  0.0  0.0  985.623830
+3    724.226497  822.194311  909.556524  791.261260  0.0  1084.634697  858.362737  1023.668646  793.927933  ...  927.267396  954.877855  1429.602426  442.829979  886.143070  670.900523  0.0  0.0  983.430634
+4    716.209885  821.961913  919.029185  780.212359  0.0  1069.991966  864.003098  1010.547052  781.726745  ...  915.295364  977.819730  1431.513541  437.210313  881.698475  656.275101  0.0  0.0  980.357989
+..          ...         ...         ...         ...  ...          ...         ...          ...         ...  ...         ...         ...          ...         ...         ...         ...  ...  ...         ...
+495  708.244181  824.902853  902.318339  776.382330  0.0  1076.783821  894.344887  1007.231913  781.400406  ...  915.404795  976.336632  1446.722433  431.912521  885.007223  651.858813  0.0  0.0  984.804473
+496  733.064072  822.642896  911.967948  766.140992  0.0  1071.065694  872.244515   994.371066  756.983197  ...  909.619966  960.359662  1439.524028  444.592961  872.832017  658.214798  0.0  0.0  989.881399
+497  710.633479  811.281288  903.225201  791.175981  0.0  1080.466147  875.815759  1003.797133  763.129183  ...  924.965258  956.072080  1420.699796  432.622614  881.073109  656.527138  0.0  0.0  983.743545
+498  718.927305  803.758938  932.774620  748.723104  0.0  1084.563259  869.695943   972.089113  770.288491  ...  940.035117  976.494570  1423.008365  428.577326  863.296187  670.080604  0.0  0.0  982.747339
+499  724.441994  814.995252  889.802047  775.837646  0.0  1099.350476  879.816309  1024.746034  788.991649  ...  910.831826  964.397016  1425.355034  444.609578  873.521848  654.875633  0.0  0.0  973.313772
+
+[500 rows x 20 columns]
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0]
+max cost:
+10808.325743759728
+[0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0]
+max cost:
+10889.8584815647
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0]
+max cost:
+10796.539691010177
+[1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+max cost:
+10707.88592913158
+[1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1]
+max cost:
+10779.107053383692
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1]
+max cost:
+10696.890859084879
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+max cost:
+10593.633298525472
+[1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0]
+max cost:
+10374.547373707008
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 13, 14, 15, 17']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 14, 15, 16, 17']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 14, 15, 16, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 11, 12, 13, 14, 15, 17, 20']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 14, 15, 16, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 11, 12, 13, 14, 15, 17, 20', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 12, 13, 14, 15, 17, 20']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 14, 15, 16, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 11, 12, 13, 14, 15, 17, 20', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 12, 13, 14, 15, 17, 20', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 12, 13, 14, 15, 16, 17']
+Chosen projects:  ['The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 2, 3, 4, 7, 8, 9, 11, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 13, 14, 15, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 6, 7, 8, 12, 14, 15, 16, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 11, 12, 13, 14, 15, 17, 20', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 12, 13, 14, 15, 17, 20', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 12, 13, 14, 15, 16, 17', 'The projects belonging to this portfolio are: 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 17']
+Entering GPT-4 area
+Final Solution:                                             Portfolio  Portfolio NPV Strategic Score                                      Justification
+0  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, ...       19653.90              85  Justification for the rating:\n\nThe proposed ...
+2  [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, ...       19616.48              88  Justification for the rating:\n\nThe selected ...
+1  [0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, ...       19610.34              82  Justification for the rating:\n\nThe revised p...
+3  [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, ...       19505.85              90  Justification for the rating:\n\nThe portfolio...
+4  [1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, ...       19369.61              83  Justification for the rating:\n\nThe portfolio...
+5  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, ...       19354.83              87  Justification for the rating:\n\nThe portfolio...
+6  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, ...       19287.02              89  Justification for the rating:\n\nThe portfolio...
+7  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, ...       19180.99              84  Justification for the rating:\n\nThe portfolio...
+[('First MCS with point estimate of budgets and NPV for each project', 11.6), 0, 0, 0, 0]
+[('First MCS with point estimate of budgets and NPV for each project', 11.6), ('First MCS with correlated cost and NPV for each project', 2.14), 0, 0, 0]
+[('First MCS with point estimate of budgets and NPV for each project', 11.6), ('First MCS with correlated cost and NPV for each project', 2.14), ('Optimization step (GA algorithm)', 6.6), 0, 0]
+[('First MCS with point estimate of budgets and NPV for each project', 11.6), ('First MCS with correlated cost and NPV for each project', 2.14), ('Optimization step (GA algorithm)', 6.6), ('Second MCS, also including point estimate of budgets and NPV for shortlisted projects', 55.89), 0]
+[('First MCS with point estimate of budgets and NPV for each project', 11.6), ('First MCS with correlated cost and NPV for each project', 2.14), ('Optimization step (GA algorithm)', 6.6), ('Second MCS, also including point estimate of budgets and NPV for shortlisted projects', 55.89), ('Application of correlation effect to final options', 1289.34)]
+                                              Checkpoint  Execution time (s)
+0      First MCS with point estimate of budgets and N...               11.60
+1      First MCS with correlated cost and NPV for eac...                2.14
+2                       Optimization step (GA algorithm)                6.60
+3      Second MCS, also including point estimate of b...               55.89
+4      Application of correlation effect to final opt...             1289.34
+Total                                              Total             1365.57
+Top 8 Candidates from Simheuristic: 
+                                           Portfolio  Portfolio NPV Strategic Score                                      Justification
+0  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, ...       19653.90              85  Justification for the rating:\n\nThe proposed ...
+2  [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, ...       19616.48              88  Justification for the rating:\n\nThe selected ...
+1  [0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, ...       19610.34              82  Justification for the rating:\n\nThe revised p...
+3  [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, ...       19505.85              90  Justification for the rating:\n\nThe portfolio...
+4  [1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, ...       19369.61              83  Justification for the rating:\n\nThe portfolio...
+5  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, ...       19354.83              87  Justification for the rating:\n\nThe portfolio...
+6  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, ...       19287.02              89  Justification for the rating:\n\nThe portfolio...
+7  [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, ...       19180.99              84  Justification for the rating:\n\nThe portfolio...
+npv_results 1D:  [19653.9  19616.48 19610.34 19505.85 19369.61 19354.83 19287.02 19180.99]
+strategic_score 1D:  ['85' '88' '82' '90' '83' '87' '89' '84']

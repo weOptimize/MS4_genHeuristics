@@ -16,13 +16,15 @@ from fitter import Fitter, get_common_distributions, get_distributions
 
 #import created scripts:
 from task_rnd_triang_with_interrupts_stdev_new_R2 import *
-from task_rnd_triang_with_interrupts_stdev_new_R2_deterministic import *
+# from task_rnd_triang_with_interrupts_stdev_new_R2_deterministic import *
 
 #I define the number of candidates to be considered
+# initcandidates = 10
 initcandidates = 20
 nr_confidence_policies = 1
 mcs_costs = []
 mcs_NPV = []
+# maxbdgt = 1800
 maxbdgt = 3800
 #initialize matrices to store bdgt and npv
 bdgtperproject_matrix = np.zeros((initcandidates, nr_confidence_policies))

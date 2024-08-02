@@ -1,105 +1,109 @@
 Top strategic scores and their justifications, and the portfolio to which it corresponds
-Portfolio [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0]
-Strategic Score: 92
-Portfolio NPV: 19683.02
-Justification: The selected portfolio of projects aligns well with the strategic objectives of the LIFE Programme, as it includes a variety of initiatives that address environmental and climate action priorities. The justification for the rating is as follows:
-
-1. Biodiversity and Ecosystem Conservation: Projects 2, 3, 4, 6, 7, 11, and 12 focus on conserving biodiversity, managing natural habitats, and protecting endangered species, which are central to the LIFE Programme's objectives.
-
-2. Sustainable Resource Management: Projects 1, 8, and 14 aim to improve resource efficiency and promote sustainable practices in industries such as winemaking and dairy, contributing to the circular economy and reducing environmental impacts.
-
-3. Climate Change Mitigation: Project 16 seeks to enhance forest management and carbon sequestration, directly contributing to climate change mitigation efforts.
-
-4. Integration with EU Policies: The projects support the implementation of EU directives and policies, such as the Habitats Directive, the Birds Directive, and the Water Framework Directive, and contribute to the EU's biodiversity strategy and climate change objectives.
-
-5. Innovation and Best Practices: Several projects introduce innovative solutions, such as Project 1's use of grape residues and Project 14's whey protein extraction technology, showcasing best practices that can be replicated or scaled up.
-
-6. Transnational Cooperation and Geographic Balance: Projects such as 2 and 6 involve cross-border collaboration and address environmental challenges that extend beyond national boundaries, promoting regional cooperation.
-
-7. Stakeholder Engagement and Governance: Projects like 3 and 7 emphasize stakeholder involvement and governance improvements, which are essential for the successful implementation of environmental policies.
-
-8. Socio-Economic Benefits: Projects such as 7 and 8 are designed to create socio-economic benefits, engage local communities, and promote environmental awareness, aligning with the LIFE Programme's goal of integrating environmental objectives into other policies.
-
-9. Addressing Specific Environmental Issues: The portfolio includes projects that tackle specific environmental issues, such as Project 1's focus on waste reduction in the wine industry and Project 14's approach to dairy by-product management.
-
-The rating of 92 reflects the strong alignment of the portfolio with the strategic objectives of the LIFE Programme. The projects collectively address key areas such as biodiversity, resource efficiency, climate action, and sustainable economic growth. The slight deduction from a perfect score accounts for potential improvements in ensuring a more explicit focus on climate change adaptation measures and expanding the scope to cover a broader range of environmental challenges.
-
-
-Portfolio [0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Portfolio [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0]
 Strategic Score: 90
-Portfolio NPV: 19738.64
-Justification: The revised portfolio of projects demonstrates an even stronger alignment with the strategic objectives outlined in Regulation (EU) No 1293/2013, which establishes the Programme for the Environment and Climate Action (LIFE). The key factors influencing this assessment are as follows:
+Portfolio NPV: 19505.85
+Justification: Justification for the rating:
 
-1. Addressing Biodiversity and Ecosystem Challenges: The portfolio includes several projects aimed at conserving biodiversity and improving the management of ecosystems, which is a central objective of the LIFE Programme. Projects 2, 3, 4, 6, 7, 12, and 13 focus on habitat restoration, species conservation, and the establishment of ecological networks, directly contributing to the preservation of natural habitats and species.
+The portfolio of projects demonstrates a strong alignment with the strategic plan, with a clear focus on environmental and climate action, biodiversity conservation, sustainable practices, and innovation. Here's how the projects align with the strategic plan:
 
-2. Integration of Environmental Objectives into Practices: Projects such as 4 and 7 aim to integrate environmental objectives into local socio-economic practices, promoting sustainable development and stakeholder engagement, which aligns with the LIFE Programme's goal of mainstreaming environmental objectives.
+- Projects 1, 2, 4, 6, 7, 12, 14, 15, 16, and 17 are directly related to the conservation of biodiversity and natural habitats, which is a core focus of the strategic plan. They include actions such as habitat restoration, species conservation, and the creation of ecological corridors, all of which contribute to the general objectives set out in Article 3.
 
-3. Innovative Approaches and Technologies: The portfolio includes projects that introduce innovative technologies and approaches for environmental protection and resource efficiency. For example, Project 14 explores new methods for processing dairy by-products, while Project 9 seeks to reduce food waste in the retail sector, both contributing to the circular economy.
+- Project 1 focuses on reintroducing winemaking residues into the production process and replacing animal-derived products, aligning with the circular economy and sustainable industry practices.
 
-4. Transnational Impact and Cooperation: Projects like 2 and 6 involve transboundary cooperation and have a wider European impact, which is in line with the LIFE Programme's emphasis on addressing environmental and climate challenges that transcend national borders.
+- Project 2 aims to improve the conservation of marine species, which is consistent with the plan's emphasis on biodiversity and ecosystem protection.
 
-5. Contribution to EU Policies and Legislation: The projects support the implementation of key EU directives and policies, such as the Habitats Directive, the Birds Directive, and the Water Framework Directive (Projects 2, 3, 4, 6, 7, 12, 13), as well as contributing to the EU's biodiversity strategy and climate change objectives.
+- Project 3 contributes to the governance and management system of the Emerald network in Ukraine, which is essential for the implementation of the Birds and Habitats Directives and can be seen as a capacity-building project.
 
-6. Enhancing Governance and Capacity Building: Project 3, for instance, aims to improve environmental governance and capacity building in Ukraine, which is essential for the successful implementation of environmental policies and legislation.
+- Project 4 seeks to improve conditions for the Iberian wolf and lynx, which aligns with the conservation and biodiversity objectives of the strategic plan.
 
-7. Socio-Economic Benefits and Public Engagement: Several projects in the portfolio, such as 7 and 9, are designed to engage the public and local communities, promoting environmental awareness and creating socio-economic benefits through sustainable practices.
+- Project 6 focuses on creating a transboundary ecological network for the protection of the Osmoderma eremita species, aligning with the Habitats Directive and contributing to the Natura 2000 network.
 
-8. Climate Change Mitigation and Adaptation: While the portfolio is heavily focused on biodiversity and ecosystems, it also includes elements of climate change mitigation and adaptation, such as the sustainable management of forest areas in Project 8 and the reduction of food waste in Project 9.
+- Project 7 focuses on habitat restoration within the Natura 2000 sites, which is a direct action under the EU's biodiversity strategy and the Habitats Directive.
 
-The rating of 90 reflects the portfolio's comprehensive coverage of the LIFE Programme's objectives, including significant contributions to biodiversity conservation, sustainable resource use, and innovative environmental solutions. The slight room for improvement could be addressed by ensuring a more explicit focus on climate change mitigation and adaptation projects, which would further enhance the alignment with the LIFE Programme's strategic plan.
+- Project 8 introduces a new recycling technology for carbon-rich waste streams, promoting innovation in waste management and supporting the Circular Economy Action Plan.
+
+- Project 12 targets the conservation of the European fire-bellied toad and other species, contributing to biodiversity and habitat conservation.
+
+- Project 14 demonstrates a new technology for extracting valuable proteins from waste streams, aligning with resource efficiency and the Circular Economy.
+
+- Project 15 focuses on analyzing and improving forest ecosystem services, which supports the EU Forest Strategy and climate goals.
+
+- Project 16 aims to promote the ecological and socio-economic conditions needed to support a viable wolf population, which aligns with biodiversity conservation and the Habitats Directive.
+
+- Project 17 aims to re-establish a viable wildcat population, contributing to biodiversity and species conservation.
+
+The portfolio is well-balanced and covers a variety of environmental and climate objectives, including innovative approaches to waste management, species and habitat conservation, and sustainable industry practices. The inclusion of transboundary projects and those that build capacity and governance structures further strengthens the alignment with the strategic plan. The portfolio could be improved by ensuring that all projects have a clear path to achieving their stated objectives and by including more projects that explicitly address climate action. Additionally, the portfolio should ensure that the projects collectively do not undermine environmental or climate objectives in other areas, as stated in Article 19(3). The rating is slightly higher than the previous assessment due to the inclusion of Project 16, which adds value in terms of promoting ecological conditions and socio-economic development aligned with the strategic plan.
 
 
-Portfolio [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+Portfolio [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0]
 Strategic Score: 88
-Portfolio NPV: 19748.879999999997
-Justification: The portfolio presents a robust alignment with the strategic objectives of the LIFE Programme, as it encompasses a diverse range of projects that address environmental and climate action from multiple angles. Here is the justification for the rating:
+Portfolio NPV: 19616.479999999996
+Justification: Justification for the rating:
 
-1. Environmental and Climate Challenges: The portfolio includes projects that tackle significant environmental and climate challenges, such as biodiversity conservation (Projects 2, 3, 4, 6, 7, 12), sustainable resource management (Projects 1, 14, 20), and ecosystem restoration (Projects 8, 11).
+The selected portfolio of projects demonstrates a strong alignment with the strategic plan, particularly in terms of environmental and climate action, biodiversity conservation, sustainable practices, and innovation. Here's how the projects align with the strategic plan:
 
-2. Innovation and Best Practices: Several projects aim to introduce innovative solutions and best practices for environmental and climate goals. For example, Project 1 seeks to reintroduce winemaking residues into the production process, and Project 14 aims to demonstrate a new technology for extracting high-value proteins from waste whey streams.
+- Projects 1, 2, 4, 6, 7, 12, 13, 14, 15, and 17 are directly related to the conservation of biodiversity and natural habitats, which is a core focus of the strategic plan. They include actions such as habitat restoration, species conservation, and the creation of ecological corridors, all of which contribute to the general objectives set out in Article 3.
 
-3. Contribution to Union Policy Goals: The projects contribute to the goals of the 7th Environment Action Programme and support the implementation of key EU directives and policies, such as the Habitats Directive (Projects 2, 3, 4, 6, 7, 12), the Waste Framework Directive (Project 14), and the Water Framework Directive (Project 1).
+- Project 1 focuses on reintroducing winemaking residues into the production process and replacing animal-derived products, aligning with the circular economy and sustainable industry practices.
 
-4. Synergies and Complementarity with Other Union Funding Programmes: The projects are designed to create synergies with other Union funding programmes. For instance, Project 3 aims to improve the governance and management system of Emerald Network sites, which could complement efforts funded through other EU programmes.
+- Project 2 aims to improve the conservation of marine species, which is consistent with the plan's emphasis on biodiversity and ecosystem protection.
 
-5. Geographic Balance and Transnational Cooperation: The portfolio includes projects with transboundary impacts and cooperation, such as Project 2, which aims to improve the conservation of marine species across national borders, and Project 6, which seeks to create a transboundary ecological network.
+- Project 3 contributes to the governance and management system of the Emerald network in Ukraine, which is essential for the implementation of the Birds and Habitats Directives and can be seen as a capacity-building project.
 
-6. Integration of Environmental and Climate Requirements into Other Policies: Projects like Project 4, which focuses on creating socioecological conditions for the Iberian wolf and lynx, integrate environmental considerations into broader socio-economic frameworks.
+- Project 4 seeks to improve conditions for the Iberian wolf and lynx, which aligns with the conservation and biodiversity objectives of the strategic plan.
 
-7. Promotion of Sustainable Economic Growth: Several projects promote sustainable economic growth by enhancing resource efficiency and developing green technologies, such as Project 14's technology for whey protein extraction and Project 1's use of grape residues.
+- Project 6 focuses on creating a transboundary ecological network for the protection of the Osmoderma eremita species, aligning with the Habitats Directive and contributing to the Natura 2000 network.
 
-8. Stakeholder Engagement and Governance Improvement: Projects such as Project 3 emphasize stakeholder engagement and governance improvements, which are crucial for the successful implementation of environmental policies.
+- Project 7 focuses on habitat restoration within the Natura 2000 sites, which is a direct action under the EU's biodiversity strategy and the Habitats Directive.
 
-9. Addressing Biodiversity Loss and Improving Resource Efficiency: The portfolio includes projects that directly address biodiversity loss (Projects 2, 3, 4, 6, 7, 12) and improve resource efficiency (Projects 1, 14), which are central themes of the LIFE Programme.
+- Project 8 introduces a new recycling technology for carbon-rich waste streams, promoting innovation in waste management and supporting the Circular Economy Action Plan.
 
-10. Climate Change Focus: Project 20's emphasis on corporate environmental and social accounting contributes to the broader climate change agenda by promoting transparency and accountability in corporate impacts on the environment.
+- Project 12 targets the conservation of the European fire-bellied toad and other species, contributing to biodiversity and habitat conservation.
 
-The rating of 88 reflects the strong alignment of the portfolio with the strategic objectives of the LIFE Programme, with a comprehensive approach to environmental and climate challenges. The slight deduction from a perfect score accounts for potential improvements in the explicit inclusion of climate change mitigation and adaptation measures across more projects, which would further strengthen the portfolio's alignment with the LIFE Programme's strategic plan.
+- Project 13 enhances biodiversity through the creation of an ecological corridor and supports the Water Framework Directive.
+
+- Project 14 demonstrates a new technology for extracting valuable proteins from waste streams, aligning with resource efficiency and the Circular Economy.
+
+- Project 15 focuses on analyzing and improving forest ecosystem services, which supports the EU Forest Strategy and climate goals.
+
+- Project 17 aims to re-establish a viable wildcat population, contributing to biodiversity and species conservation.
+
+The portfolio is well-balanced and covers a variety of environmental and climate objectives, including innovative approaches to waste management, species and habitat conservation, and sustainable industry practices. The inclusion of transboundary projects and those that build capacity and governance structures further strengthens the alignment with the strategic plan. The portfolio could be improved by ensuring that all projects have a clear path to achieving their stated objectives and by including more projects that explicitly address climate action. Additionally, the portfolio should ensure that the projects collectively do not undermine environmental or climate objectives in other areas, as stated in Article 19(3).
 
 
-Portfolio [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Portfolio [1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0]
 Strategic Score: 85
-Portfolio NPV: 19796.66
-Justification: The proposed portfolio of projects demonstrates a strong alignment with the strategic objectives outlined in Regulation (EU) No 1293/2013, which establishes the Programme for the Environment and Climate Action (LIFE). The key factors influencing this assessment are as follows:
+Portfolio NPV: 19653.899999999998
+Justification: Justification for the rating:
 
-1. Regulation Focus on Environmental and Climate Challenges: The portfolio includes projects that address major environmental and climate challenges such as biodiversity conservation (Projects 2, 3, 6, 7, 12, 13), sustainable agriculture and waste reduction (Projects 1, 14), and the integration of environmental objectives into other sectors like the wine industry and dairy production (Projects 1, 14).
+The proposed portfolio of projects aligns well with the strategic plan outlined in the provided articles, particularly in terms of addressing the types of projects eligible for funding, the focus on environmental and climate objectives, and the emphasis on innovation, capacity building, and transnational cooperation.
 
-2. Innovation and Best Practices: Several projects aim to introduce innovative solutions and best practices for environmental and climate goals. For example, Project 1 seeks to reintroduce winemaking residues into the production process, and Project 14 aims to demonstrate a new technology for extracting high-value proteins from waste whey streams.
+- Projects 1, 2, 4, 7, 8, 11, 12, 13, 14, 15, and 17 are all directly related to environmental and climate action, which is a core aspect of the strategic plan. They cover a range of actions from habitat restoration, species conservation, sustainable practices in industries, and innovative recycling technologies, all contributing to the general objectives set out in Article 3.
 
-3. Contribution to Union Policy Goals: The projects contribute to the goals of the 7th Environment Action Programme and support the implementation of key EU directives and policies, such as the Habitats Directive (Projects 2, 3, 6, 7, 12, 13), the Waste Framework Directive (Project 14), and the Water Framework Directive (Project 1).
+- Project 1 focuses on reintroducing winemaking residues into the production process and replacing animal-derived products, aligning with the circular economy and sustainable industry practices.
 
-4. Synergies and Complementarity with Other Union Funding Programmes: The projects are designed to create synergies with other Union funding programmes. For instance, Project 3 aims to improve the governance and management system of Emerald Network sites, which could complement efforts funded through other EU programmes.
+- Project 2 aims to improve the conservation of marine species, which is consistent with the plan's emphasis on biodiversity and ecosystem protection.
 
-5. Geographic Balance and Transnational Cooperation: The portfolio includes projects with transboundary impacts and cooperation, such as Project 2, which aims to improve the conservation of marine species across national borders, and Project 6, which seeks to create a transboundary ecological network.
+- Project 3, while not directly related to environmental or climate action, contributes to the governance and management system of the Emerald network in Ukraine, which is essential for the implementation of the Birds and Habitats Directives and can be seen as a capacity-building project.
 
-6. Integration of Environmental and Climate Requirements into Other Policies: Projects like Project 4, which focuses on creating socioecological conditions for the Iberian wolf and lynx, integrate environmental considerations into broader socio-economic frameworks.
+- Project 4 seeks to improve conditions for the Iberian wolf and lynx, which aligns with the conservation and biodiversity objectives of the strategic plan.
 
-7. Promotion of Sustainable Economic Growth: Several projects promote sustainable economic growth by enhancing resource efficiency and developing green technologies, such as Project 14's technology for whey protein extraction and Project 1's use of grape residues.
+- Project 7 focuses on habitat restoration within the Natura 2000 sites, which is a direct action under the EU's biodiversity strategy and the Habitats Directive.
 
-8. Stakeholder Engagement and Governance Improvement: Projects such as Project 3 emphasize stakeholder engagement and governance improvements, which are crucial for the successful implementation of environmental policies.
+- Project 8 introduces a new recycling technology for carbon-rich waste streams, promoting innovation in waste management and supporting the Circular Economy Action Plan.
 
-9. Addressing Biodiversity Loss and Improving Resource Efficiency: The portfolio includes projects that directly address biodiversity loss (Projects 2, 3, 6, 7, 12, 13) and improve resource efficiency (Projects 1, 14), which are central themes of the LIFE Programme.
+- Project 11 aims to reduce food waste in the retail sector, which is a priority area in the Circular Economy Package and contributes to sustainable resource use.
 
-The rating of 85 reflects the strong alignment of the portfolio with the strategic objectives of the LIFE Programme, although there is room for improvement in certain areas such as broader geographic coverage and the inclusion of more projects with a direct focus on climate change mitigation and adaptation to further enhance the portfolio's alignment with the LIFE Programme's strategic plan.
+- Project 12 targets the conservation of the European fire-bellied toad and other species, contributing to biodiversity and habitat conservation.
+
+- Project 13 enhances biodiversity through the creation of an ecological corridor and supports the Water Framework Directive.
+
+- Project 14 demonstrates a new technology for extracting valuable proteins from waste streams, aligning with resource efficiency and the Circular Economy.
+
+- Project 15 focuses on analyzing and improving forest ecosystem services, which supports the EU Forest Strategy and climate goals.
+
+- Project 17 aims to re-establish a viable wildcat population, contributing to biodiversity and species conservation.
+
+The key factors influencing the assessment are the direct contributions to the conservation of biodiversity, sustainable use of resources, innovation in environmental technologies, and capacity building for environmental governance. The portfolio could be improved by including more projects that explicitly address climate action, as well as ensuring a balanced geographical distribution and the inclusion of transnational projects to fully align with the strategic plan's objectives. Additionally, the portfolio should ensure that the projects collectively do not undermine environmental or climate objectives in other areas, as stated in Article 19(3).
 
 

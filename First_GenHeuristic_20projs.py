@@ -17,7 +17,7 @@ import openai
 openai.api_type = "azure"
 openai.api_version = "2024-02-15-preview" 
 openai.api_base = "https://gpt-4-uks.openai.azure.com/"  # Your Azure OpenAI resource's endpoint value .
-openai.api_key = "removed_for_security_purposes"
+openai.api_key = "f827bd82ce98414cac8b4aee867de49c"
 
 # Save the original stdout
 original_stdout = sys.stdout 
@@ -84,6 +84,7 @@ correlation_matrix = []
 
 #I define the number of candidates to be considered and the number of iterations for the MCS
 nrcandidates = 20
+# nrcandidates = 10
 # iterations = 300
 # iterations_finalMCS = 5000
 iterations = 100
@@ -92,7 +93,7 @@ iterations_finalMCS = 500
 
 #I define the budget constraint (in k€) and the minimum confidence level for the portfolio
 maxbdgt = 10800
-# maxbdgt = 7560
+# maxbdgt = 5800
 min_pf_conf = 0.90
 
 #initialize an array of budgeted durations that is nrcandidates x len(budgetting_confidence_policies)
@@ -170,11 +171,11 @@ def evaluate(individual, bdgtperproject, npvperproject, maxbdgt):
 
 # Define the genetic algorithm parameters
 # POPULATION_SIZE = 180 #was 100 #was 50
-POPULATION_SIZE = 100    #was 30
+POPULATION_SIZE = 30    #was 100
 P_CROSSOVER = 0.4
 P_MUTATION = 0.6
 # MAX_GENERATIONS = 300 #was 500 #was 200 #was 100
-MAX_GENERATIONS = 300 #was 100
+MAX_GENERATIONS = 100 #was 300
 HALL_OF_FAME_SIZE = 8
 
 # Create the individual and population classes based on the list of attributes and the fitness function # was weights=(1.0,) returning only one var at fitness function
@@ -304,7 +305,7 @@ print ("Number of candidate projects for stage 2: ", projected_candidates)
 
 # Load text from strategic plan as plain code so that I can concatenate it at the prompt following the conversation
 # with the user
-strategic_plan = open("EU_LIFE_Valid_Statement.txt", "r")
+strategic_plan = open("EU_LIFE_Valid_Statement_short.txt", "r")
 
 consolidated_summaries = []
 
@@ -380,8 +381,9 @@ widened_df20r = widened_df20r.reindex(range(iterations_finalMCS))
 # fill the dataframe with zeroes
 widened_df20r.iloc[:, :] = 0
 
+print("Preparing for correlatedMCS to calculate df20r")
 df20r = correlatedMCS(mcs_results2, iterations_finalMCS, projected_candidates, zipped_projection_indexes)
-# print("df20r: ", df20r)
+print("df20r: ", df20r)
 
 # pick in order the values from bdgtperproject_matrix and npvperproject_matrix and store them in widened_bdgtperproject_matrix and widened_npvperproject_matrix
 # The location of the values to be picked is available in zipped_projection_indexes
@@ -456,7 +458,7 @@ for i in range(len(finalsol_df)):
 
 
 # *********************  GPT-4  ************************
-
+print("Entering GPT-4 area")
 # The conversation is initialized with a message to the user, which is the first message in the conversation list
 # First there is an instruction under "content", and then - also inside "content" - the strategic plan is concatenated
 conversation=[{"role": "system", "content": initialization_prompt}]
