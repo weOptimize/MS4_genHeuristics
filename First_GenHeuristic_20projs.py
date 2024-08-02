@@ -17,7 +17,7 @@ import openai
 openai.api_type = "azure"
 openai.api_version = "2024-02-15-preview" 
 openai.api_base = "https://gpt-4-uks.openai.azure.com/"  # Your Azure OpenAI resource's endpoint value .
-openai.api_key = "4f6f839cc3134e66a1235070287c4ac2"
+openai.api_key = "x"
 
 # Save the original stdout
 original_stdout = sys.stdout 
