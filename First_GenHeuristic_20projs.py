@@ -17,7 +17,7 @@ import openai
 openai.api_type = "azure"
 openai.api_version = "2024-02-15-preview" 
 openai.api_base = "https://gpt-4-uks.openai.azure.com/"  # Your Azure OpenAI resource's endpoint value .
-openai.api_key = "f827bd82ce98414cac8b4aee867de49c"
+openai.api_key = "4f6f839cc3134e66a1235070287c4ac2"
 
 # Save the original stdout
 original_stdout = sys.stdout 
@@ -139,7 +139,7 @@ timestamps.append(('First MCS with correlated cost and NPV for each project', ti
 # Defining the fitness function
 def evaluate(individual, bdgtperproject, npvperproject, maxbdgt):
     total_cost = 0
-    total_npv = 0
+    fitness = 0
     #multiply dataframe 10r by the chosen portfolio to reflect the effect of the projects that are chosen
     pf_df10r = df10r * individual
     #sum the rows of the new dataframe to calculate the total cost of the portfolio
@@ -163,11 +163,14 @@ def evaluate(individual, bdgtperproject, npvperproject, maxbdgt):
             total_cost += bdgtperproject[i]
             #total_cost += PROJECTS[i][0]
             # add the net present value of the project to the total net present value of the portfolio
-            total_npv += npvperproject[i]
+            # fitness += (1/200)*npvperproject[i]
+            fitness += npvperproject[i]
             #total_npv += npv[i][1]
     if total_cost > maxbdgt or portfolio_confidence < min_pf_conf:
         return 0, 0
-    return total_npv, portfolio_confidence
+    # else
+        # fitness += StrategicEval(individual)
+    return fitness, portfolio_confidence
 
 # Define the genetic algorithm parameters
 # POPULATION_SIZE = 180 #was 100 #was 50
@@ -463,12 +466,11 @@ print("Entering GPT-4 area")
 # First there is an instruction under "content", and then - also inside "content" - the strategic plan is concatenated
 conversation=[{"role": "system", "content": initialization_prompt}]
 
-# Loop through the consolidated_summaries and ask the AI(GPT4) to evaluate them
-# Store the AI's response in a new array called "evaluations", where the topic is in the first column
-# and the AI's response is in another column
-evaluations = []
-for choice in chosenprojects:
+# Function to evaluate the strategic score of a candidate portfolio
+def StratEval(choice):
+    # The conversation is initialized with a message to the user, which is the first message in the conversation list
     conversation.append({"role": "user", "content": choice})
+
     try:
         response = openai.ChatCompletion.create(
             engine="GPT4_turbo_128k", # The deployment name you chose when you deployed the ChatGPT or GPT-4 model.
@@ -483,18 +485,9 @@ for choice in chosenprojects:
     except Exception as e:
         print("An error occurred: ", e)
 
-    # response = openai.Completion.create(
-    #     engine="weO_vs00_gpt-35-turbo", # The deployment name you chose when you deployed the ChatGPT or GPT-4 model.
-    #     messages = conversation
-    # )
-
     conversation.append({"role": "assistant", "content": response['choices'][0]['message']['content']})
-    # print("\n" + response['choices'][0]['message']['content'] + "\n")
-    evaluations.append([choice, response['choices'][0]['message']['content']])
+    evaluation = [choice, response['choices'][0]['message']['content']]
 
-# Modify the evaluations array so that the last column is splitted into two columns. The first column should contain the number
-# and the second column should contain the justification
-for evaluation in evaluations:
     # Split the last column by the first "." symbol
     split = evaluation[1].split("\n", 1)
     # Remove the first period from the second column
@@ -503,7 +496,13 @@ for evaluation in evaluations:
     evaluation[1] = split[0]
     evaluation.insert(2, split[1])
 
-# Add the evaluations (only columns 2 and 3, forget 1) to the finalsol_df dataframe
+    return evaluation
+
+evaluations = []
+for choice in chosenprojects:
+    evaluation = StratEval(choice)
+    evaluations.append(evaluation)
+
 for i in range(len(evaluations)):
     finalsol_df.loc[i, 'Strategic Score'] = evaluations[i][1]
     finalsol_df.loc[i, 'Justification'] = evaluations[i][2]
